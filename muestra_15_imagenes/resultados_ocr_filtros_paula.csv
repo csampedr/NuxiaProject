@@ -1,0 +1,866 @@
+﻿imagen,filtro,texto_ocr,lote,fecha_fabricacion,fecha_caducidad
+carpeta1-0508_036f0258_original.png,baseline,"010.9
+LOTE NG
+MANUF
+24H16G3
+EXF
+16/08/2024
+15/08/2026",24H16G3,2024-08,2026-08
+carpeta1-0508_036f0258_original.png,adaptativo,"LoTe ho
+Maad
+24H16G3
+Est
+16/08/2024
+15/08/2025",24H16G3,2024-08,2025-08
+carpeta1-0508_036f0258_original.png,binary_otsu," a) a
+3",,,
+carpeta1-0508_036f0258_original.png,mediana_adaptativa,"L04m
+vand
+24H16G3
+16108/2024
+15108/2025",L04m,,
+carpeta1-0508_036f0258_original.png,unsharp_masking,"LOTE 1S
+4A4
+24H16G3
+fel
+16/C8/2024
+15/08/2025",4A4,2024-08,2025-08
+carpeta1-0508_036f0258_original.png,pipeline_super_adaptativo,"5
+二",,,
+carpeta1-0508_0421afbc_original.png,baseline,"932155
+Lot
+Mandl
+08/24
+Exp
+08/26",932155,2024-08,2026-08
+carpeta1-0508_0421afbc_original.png,adaptativo,"900
+3
+) ) 
+211
+02
+540
+5
+Lp.",,,
+carpeta1-0508_0421afbc_original.png,binary_otsu,2,,,
+carpeta1-0508_0421afbc_original.png,mediana_adaptativa,"900
+3  
+1
+5
+5
+2
+0
+es",,,
+carpeta1-0508_0421afbc_original.png,unsharp_masking,"0 0 0
+m0
+0
+20
+05
+5",,,
+carpeta1-0508_0421afbc_original.png,pipeline_super_adaptativo,11,,,
+carpeta1-0508_0724983f_original.png,baseline,"80799
+Lote No.:0AF0434A
+F.Manuf.:09/2024
+F.Exp.1 08/2026
+8901127037957
+E99PWN8R6SZ",0AF0434A,2024-09,2026-08
+carpeta1-0508_0724983f_original.png,adaptativo,"0799
+LOtO NO.LOAFO634A
+F.MAnuf.:09/2024
+F.Exp.1 C812020
+1201127037957
+1995W489652",NO.LOAFO634A,2024-09,
+carpeta1-0508_0724983f_original.png,binary_otsu,,,,
+carpeta1-0508_0724983f_original.png,mediana_adaptativa,"00799
+LOCO NO.LOAFCLS4A
+F.Monuf.:C3/2024
+F.520.1 C812020
+5401127031937
+1375W5E9652",NO.LOAFCLS4A,,2024-03
+carpeta1-0508_0724983f_original.png,unsharp_masking,0799,,,
+carpeta1-0508_0724983f_original.png,pipeline_super_adaptativo,,,,
+carpeta1-0508_09d0cb17_original.png,baseline,"2024/11/04
+10202411042026/11/03",,2024-11,
+carpeta1-0508_09d0cb17_original.png,adaptativo,"2024/11/04
+202411042026/11/03",,2024-11,
+carpeta1-0508_09d0cb17_original.png,binary_otsu,,,,
+carpeta1-0508_09d0cb17_original.png,mediana_adaptativa,"2024/11/04
+202411042026/11/03",,2024-11,
+carpeta1-0508_09d0cb17_original.png,unsharp_masking,,,,
+carpeta1-0508_09d0cb17_original.png,pipeline_super_adaptativo,,,,
+carpeta1-0508_0d5e6be4_original.png,baseline,"m
+GTIN:18901127028504
+Sr. No.: B8NTAWB62BU
+Lote No.: DNF08808
+F.Manuf.:09/2024
+f.Exp.: 08/2026
+Repuba
+cina 150",DNF08808,2024-09,2026-08
+carpeta1-0508_0d5e6be4_original.png,adaptativo,"6TIN: 18901127028504
+Sr. No.: B9NTAB6Bu
+Lote ho.: oNrORPc
+.Hanut.: 09/2024
+F.Exp.: 08/2026
+A0
+cra150",B9NTAB6Bu,2024-09,2026-08
+carpeta1-0508_0d5e6be4_original.png,binary_otsu,,,,
+carpeta1-0508_0d5e6be4_original.png,mediana_adaptativa,"15901127028504
+0912024
+C8/2026
+cra150",C8/2026,,2026-08
+carpeta1-0508_0d5e6be4_original.png,unsharp_masking,,,,
+carpeta1-0508_0d5e6be4_original.png,pipeline_super_adaptativo,,,,
+carpeta2-1408_011935a0_original.png,baseline,"L:2120064
+V:12-2026",,,2026-12
+carpeta2-1408_011935a0_original.png,adaptativo,"67
+L:2120064
+:12-2026",,,2026-12
+carpeta2-1408_011935a0_original.png,binary_otsu,5,,,
+carpeta2-1408_011935a0_original.png,mediana_adaptativa,"L:2120064
+U:12-2026",,,2026-12
+carpeta2-1408_011935a0_original.png,unsharp_masking,"210064
+V12-2026",V12-2026,,2026-12
+carpeta2-1408_011935a0_original.png,pipeline_super_adaptativo,2,,,
+carpeta2-1408_01200be4_original.png,baseline,"Lote:
+Elab:
+Cad:
+4031037
+20/DIC/24
+20/DIC/26U44",4031037,,
+carpeta2-1408_01200be4_original.png,adaptativo,"Lote:
+Elab:
+Cad:
+4031037
+20/DIC/24
+20/DIC/26 U44",4031037,,
+carpeta2-1408_01200be4_original.png,binary_otsu,"R
+4011037
+30/C/24
+200/2644",30/C/24,,
+carpeta2-1408_01200be4_original.png,mediana_adaptativa,"Lote
+Elob:
+Cad:
+4031037
+20/DIC/24
+20/DIC/26 U44",4031037,,
+carpeta2-1408_01200be4_original.png,unsharp_masking,"111
+Hab
+Calt
+4031037
+20/DIC/24
+20/DIC/26 U44",20/DIC/24,,
+carpeta2-1408_01200be4_original.png,pipeline_super_adaptativo,,,,
+carpeta2-1408_0303fac1_original.png,baseline,"54Y20W
+12-2026",54Y20W,,2026-12
+carpeta2-1408_0303fac1_original.png,adaptativo,,,,
+carpeta2-1408_0303fac1_original.png,binary_otsu,"
+G",,,
+carpeta2-1408_0303fac1_original.png,mediana_adaptativa,CEF,,,
+carpeta2-1408_0303fac1_original.png,unsharp_masking,,,,
+carpeta2-1408_0303fac1_original.png,pipeline_super_adaptativo,#,,,
+carpeta2-1408_03d36f66_original.png,baseline,"
+EXP
+12 2026
+LOT
+TDTX3
+MFD
+01 2024",TDTX3,2024-01,2026-12
+carpeta2-1408_03d36f66_original.png,adaptativo,"R
+3
+920226
+107
+DIa
+Can
+01 2024",,,2024-01
+carpeta2-1408_03d36f66_original.png,binary_otsu,"mm3
+01 2024",,2024-01,
+carpeta2-1408_03d36f66_original.png,mediana_adaptativa,"6
+23
+12:2026
+157
+DUD
+Can
+012026",,,
+carpeta2-1408_03d36f66_original.png,unsharp_masking,"TDDX3
+012024",TDDX3,,
+carpeta2-1408_03d36f66_original.png,pipeline_super_adaptativo,"③
+9202 21
+EXICI
+20210",,,
+carpeta2-1408_0656b9aa_original.png,baseline,"Inpredents Aoua, C12-15 Aky Benzate Öctity
+1076
+LOTE: 30015001
+FAB:
+2023/12/13
+CAD:
+2026/12/13",30015001,2023-12,2026-12
+carpeta2-1408_0656b9aa_original.png,adaptativo,"03040""018076"">
+FOOSTOOS 3101
+152021
+COTO",,,
+carpeta2-1408_0656b9aa_original.png,binary_otsu,"103040""018076
+TOOSTODS
+S0/21220S
+CV)
+20A21212",S0/21220S,,
+carpeta2-1408_0656b9aa_original.png,mediana_adaptativa,"3040""018076"">
+FOOSTOOS 3201
+AS1
+C0O
+0",,,
+carpeta2-1408_0656b9aa_original.png,unsharp_masking,"
+1030076
+1O0
+30015001
+FA5
+2023/12/13
+CAO
+2026/12/13",,2023-12,2026-12
+carpeta2-1408_0656b9aa_original.png,pipeline_super_adaptativo,,,,
+carpeta3-1609_0546ea28_original.png,baseline,"09 2026
+C1 2025
+1248825",,2025-01,2026-09
+carpeta3-1609_0546ea28_original.png,adaptativo,"920700
+520210
+1245925",,,
+carpeta3-1609_0546ea28_original.png,binary_otsu,3,,,
+carpeta3-1609_0546ea28_original.png,mediana_adaptativa,"60
+220240
+520710
+125525",,,
+carpeta3-1609_0546ea28_original.png,unsharp_masking,010,,,
+carpeta3-1609_0546ea28_original.png,pipeline_super_adaptativo,4,,,
+carpeta3-1609_0670c123_original.png,baseline,"Pro por
+Uu7
+Bctaals
+iguens en
+oteru
+.J.RL
+Auf. San. SENASA. 000813-
+MIDAGRI - SENASA- LIMA -CALLAO
+PRODUCTO PERUANO
+AICCH
+948 868 494
+www.botanicals.pe
+COMUNICATECON NOSOTROS: Celular/WhatsApp:
+CODIGO DE SEGURIDAD
+LOTE:241217
+el embaraza
+FV:17/12/2026
+CI:J201224
+7753574000015
+AL COADYUVANTE A TRATAMIENTOS PARARTE PESO. NO CONSIDERADO MEDICINA.",241217,,2026-12
+carpeta3-1609_0670c123_original.png,adaptativo,"
+Sdtanvis
+4
+LOTE:24T217
+FV:17/12'2026
+CI:J201224
+70753574000015
+ONSIDE
+",24T217,,
+carpeta3-1609_0670c123_original.png,binary_otsu,"0.0
+LOTE 2.217
+FV.1/7/122026
+C1:J20122.",2.217,,
+carpeta3-1609_0670c123_original.png,mediana_adaptativa,"Rc2s
+
+Sttancals
+
+LOTE:24 T217
+FV:17/12/2026
+C1:J201224
+73374000015
+O CONSIDE
+CODLAOS",T217,,2026-12
+carpeta3-1609_0670c123_original.png,unsharp_masking,"
+LOTE:241217
+FV:17/12'2026
+C1:J2012
+7753572000015
+ONSIDER",241217,,
+carpeta3-1609_0670c123_original.png,pipeline_super_adaptativo,"Zolanicals
+.CA:LAO
+Covrn
+LCOADTL",,,
+carpeta3-1609_089af73d_original.png,baseline,"Fabricado por Henil S.A.
+Laboratorios Industriales Farmacéuticos
+Av. Los Frutales 220
+Ate Lima - Perù
+85:EN-03930
+RUC:20100060150
+Producto Peruano
+PROFESIONALESTRABAJANDOPORLASALUD
+904354",EN-03930,,
+carpeta3-1609_089af73d_original.png,adaptativo,,,,
+carpeta3-1609_089af73d_original.png,binary_otsu,O,,,
+carpeta3-1609_089af73d_original.png,mediana_adaptativa,,,,
+carpeta3-1609_089af73d_original.png,unsharp_masking,,,,
+carpeta3-1609_089af73d_original.png,pipeline_super_adaptativo,"
+C",,,
+carpeta3-1609_0914ed75_original.png,baseline,"eraf
+eina
+5  mL
+LOTE
+c02
+FAB
+12/0
+.VEN
+Mg 3798(hH)
+.48
+719791919990101
+Fab por:",c02,,
+carpeta3-1609_0914ed75_original.png,adaptativo,"Serotocaf
+010.
+Cefalexina
+250 mg / 5 mL
+LOTE
+1172020
+BCY0125002
+FFAB
+FVENC
+
+R.S. N°: EE-07484
+7175129910019041>
+Fabncado por:",1172020,,
+carpeta3-1609_0914ed75_original.png,binary_otsu,"250 mg /5 mL
+RSNTE0/41
+4
+Fbo a0o por",RSNTE0/41,,
+carpeta3-1609_0914ed75_original.png,mediana_adaptativa,"Serotoca
+60
+Cefalexina
+250 mg / 5 mL
+LOTE
+2
+ECY0125002
+FFAB
+FNENC
+1N 
+R.S. N°: EE-07484
+1717512990019041
+fabricado por:",ECY0125002,,
+carpeta3-1609_0914ed75_original.png,unsharp_masking,"Serotocaf
+Cefalexina
+250 mg / 5 mL
+R.S. N°: EE-07484
+17512990019041
+Fabricado por:",EE-07484,,
+carpeta3-1609_0914ed75_original.png,pipeline_super_adaptativo,"
+(X)",,,
+carpeta3-1609_09a9ac3d_original.png,baseline,"Cefalexina
+250 mg / 5 mL
+LOTE
+BCY0125002
+F.FAB
+01/2025
+12/2026
+F.VENC
+Mfg. Lic. N°: 379-B(H)
+R.S. N°: EE-07484
+990019041>
+res Limited
+SAC
+uol de Amal N° 202
+Callac, Perú
+BPM
+BPA
+GMP
+GSP",BCY0125002,2025-01,2026-12
+carpeta3-1609_09a9ac3d_original.png,adaptativo,"Cefalexina
+250 mg / 5 mL
+LOTE
+ωo-
+N
+100
+Nてっ
+BYS 3
+2.3A3
+22124
+fol0
+8
+R.S. N°: EE-07484
+90019041
+olra
+600  Ara N 202
+- C- Peru.
+BPM
+BPA
+C
+CSP",100,,
+carpeta3-1609_09a9ac3d_original.png,binary_otsu,"250 mg / 5 mL
+RS NFE.0744
+RPN",NFE.0744,,
+carpeta3-1609_09a9ac3d_original.png,mediana_adaptativa,"Cefalexina
+250 mg / 5 mL
+LOTE
+CCY012002
+132023
+FFA3
+F VE:C
+60
+R.S. N°: EE-07484
+940019041>
+N22
+C. PeN
+BPM
+BPA",CCY012002,,
+carpeta3-1609_09a9ac3d_original.png,unsharp_masking,"Cefalexina
+250 mg / 5 mL
+LOTE
+5010135302
+F FAR
+FELC
+R.S. N°: EE-07484
+10019041>
+-123
+N202
+-C Peru
+BPM:
+BPA",5010135302,,
+carpeta3-1609_09a9ac3d_original.png,pipeline_super_adaptativo,1.10.11,,2011-10,
+carpeta1-0508_036f0258_original.png,unsharp_gris,"010.5
+LOTE No
+MANUF
+24H16G3
+16/08/2024
+15/08/2026",24H16G3,2024-08,2026-08
+carpeta1-0508_036f0258_original.png,contraste_cuantiles,"LOTE No
+MANUF
+24H16G3
+16/08/2024
+15/08/2026",24H16G3,2024-08,2026-08
+carpeta1-0508_036f0258_original.png,normaliza_fondo,"LOTE NO
+MANUF.
+24H16G3
+EXF
+16/08/2024
+15/08/2026",24H16G3,2024-08,2026-08
+carpeta1-0508_036f0258_original.png,unsharp_2x,"070.5
+LOTE No
+MANUF
+24H16G3
+EXF
+16/08/2024
+15/08/2026",24H16G3,2024-08,2026-08
+carpeta1-0508_0421afbc_original.png,unsharp_gris,"9 3 2 1 5 5
+Lot
+08/24
+Mandl
+08/26",,2024-08,2026-08
+carpeta1-0508_0421afbc_original.png,contraste_cuantiles,"9 3 2 1 5 5
+08/24
+08/26",,2024-08,2026-08
+carpeta1-0508_0421afbc_original.png,normaliza_fondo,"9 3 2 1 55
+lat
+Hand
+0 8 /2 4
+Ep:
+08/26",,,2026-08
+carpeta1-0508_0421afbc_original.png,unsharp_2x,"
+9 3 2 1 5 5
+La
+08/24
+Mandl
+08/26
+Exp:",,2024-08,2026-08
+carpeta1-0508_0724983f_original.png,unsharp_gris,"0
+80799
+Lote No.:0AF0434A
+F.Manuf.:09/2024
+F.Exp,1 08/2026
+8901127037957
+E99PWN8R6SZ",0AF0434A,2024-09,2026-08
+carpeta1-0508_0724983f_original.png,contraste_cuantiles,"80799
+LoteNo.1BAF0434A
+F.Manuf.:09/2024
+F,Exp,1 08/2026
+8901127037957
+E99PWN8R6SZ",No.1BAF0434A,2024-09,2026-08
+carpeta1-0508_0724983f_original.png,normaliza_fondo,"90799
+Lote No.1BAF0434A
+F.Manuf.:09/2024
+F.Exp,1 08/2026
+8901127037957
+199PWN8R6SZ",No.1BAF0434A,2024-09,2026-08
+carpeta1-0508_0724983f_original.png,unsharp_2x,"30799
+Lote No.10AF0434A
+F.Manuf,:09/2024
+F.Exp,1 08/2026
+18901127037957
+E99PWN8R6SZ",No.10AF0434A,2024-09,2026-08
+carpeta1-0508_09d0cb17_original.png,unsharp_gris,"2024/11/04
+107202411042026/11/03",,2024-11,
+carpeta1-0508_09d0cb17_original.png,contraste_cuantiles,"2024/11/04
+202411042026/11/03",,2024-11,
+carpeta1-0508_09d0cb17_original.png,normaliza_fondo,"2024/11/04
+202411042026/11/03",,2024-11,
+carpeta1-0508_09d0cb17_original.png,unsharp_2x,"R
+M/202/1/04
+ 211",M/202/1/04,,
+carpeta1-0508_0d5e6be4_original.png,unsharp_gris,"6日
+GTIN: 18901127028504
+Sr. No.: B8NTAWB62BU
+Lote No.: DNF08808
+F.Manuf.: 09/2024
+f.Exp.: 08/2026
+Repuba
+cina 150",DNF08808,2024-09,2026-08
+carpeta1-0508_0d5e6be4_original.png,contraste_cuantiles,"6TIN: 18901127028504
+Sr. No.: BBNTAWB62BU
+Lote No.: DNF08808
+F.Menuf.: 09/2024
+F.Exp.: 08/2026
+Repuba
+icina 150",DNF08808,2024-09,2026-08
+carpeta1-0508_0d5e6be4_original.png,normaliza_fondo,"6TIN:18901127028504
+Sr. No.: 88NTAW862BU
+Lote No.: DNF08808
+F.Manu9.: 09/2024
+f.Exp.: 08/2026
+Hp
+cina150",DNF08808,2024-09,2026-08
+carpeta1-0508_0d5e6be4_original.png,unsharp_2x,"8
+GTIN: 18901127028504
+Sr. No.: BBNTAWB62BU
+Lote No.: DNF08808
+F.Manuf.: 09/2024
+F.Exp.: 08/2026
+Repube
+cina150",DNF08808,2024-09,2026-08
+carpeta2-1408_011935a0_original.png,unsharp_gris,"L:2120064
+V:12-2026",,,2026-12
+carpeta2-1408_011935a0_original.png,contraste_cuantiles,"L:2120064
+V:12-2026",,,2026-12
+carpeta2-1408_011935a0_original.png,normaliza_fondo,"L:2120064
+U:12-2026",,,2026-12
+carpeta2-1408_011935a0_original.png,unsharp_2x,"6
+L:2120064
+U:12-2026",,,2026-12
+carpeta2-1408_01200be4_original.png,unsharp_gris,"Lote:
+Elab:
+Cad:
+4031037
+20/DIC/24
+20/DIC/26U44",4031037,,
+carpeta2-1408_01200be4_original.png,contraste_cuantiles,"Lote:
+Elab:
+Cad:
+4031037
+20>DIC>24
+20/DIC/26~U44",4031037,,
+carpeta2-1408_01200be4_original.png,normaliza_fondo,"Lote:
+Elab:
+Cad:
+4031037
+20/DIC/24",4031037,,
+carpeta2-1408_01200be4_original.png,unsharp_2x,"Lote:
+Elab:
+Cad:
+4031037
+20/DIC/24
+20
+/DIC/26U44",4031037,,
+carpeta2-1408_0303fac1_original.png,unsharp_gris,"54V20W
+12-2026",54V20W,,2026-12
+carpeta2-1408_0303fac1_original.png,contraste_cuantiles,"54V20W
+12-2026",54V20W,,2026-12
+carpeta2-1408_0303fac1_original.png,normaliza_fondo,"54Y20W
+12-2026",54Y20W,,2026-12
+carpeta2-1408_0303fac1_original.png,unsharp_2x,"S4Y20H
+12-2026
+口",S4Y20H,,2026-12
+carpeta2-1408_03d36f66_original.png,unsharp_gris," 5 8
+122026
+TDTX3
+01 2024",TDTX3,2024-01,
+carpeta2-1408_03d36f66_original.png,contraste_cuantiles,"DP
+12 2026
+LOT
+TDTX3
+MFD
+01 2024",TDTX3,2024-01,2026-12
+carpeta2-1408_03d36f66_original.png,normaliza_fondo,"10
+85星
+12 2026
+TDDX3
+01 2026",TDDX3,2026-01,2026-12
+carpeta2-1408_03d36f66_original.png,unsharp_2x,"100
+EXP
+12 2026
+LOT
+TDTX3
+MFD
+01 2024",TDTX3,2024-01,2026-12
+carpeta2-1408_0656b9aa_original.png,unsharp_gris,"Inpredents Aua, C12-15 Aky Bemzate Oaty
+me lanam Doce Nel Ém Pé
+1076`
+LOTE: 30015001
+FAB:
+2023/12/13
+CAD:
+2026/12/13",30015001,2023-12,2026-12
+carpeta2-1408_0656b9aa_original.png,contraste_cuantiles,"Inpredents Agua, C12-15 Aky Bemzate Ocity
+10376
+LOTE: 30015001
+FAB:
+2023/12/13
+CAD:
+2026/12/13
+4",30015001,2023-12,2026-12
+carpeta2-1408_0656b9aa_original.png,normaliza_fondo,"Inpredents Aous (12-15 Aky Bencaate Ctpty
+amen De A m apem
+10000761
+N
+
+
+LOTE:30015001
+FAB:2023/12/13
+CAD: 2026/12/13",30015001,2023-12,2026-12
+carpeta2-1408_0656b9aa_original.png,unsharp_2x,"""018076
+103040
+LOOTE:
+FOOSTOOS
+AB:
+2032/13
+CAD:
+2026/12/13",103040,,2026-12
+carpeta3-1609_0546ea28_original.png,unsharp_gris,"9202 60
+01 2025
+124825",,2025-01,
+carpeta3-1609_0546ea28_original.png,contraste_cuantiles,"09 2026
+C1 2025
+1243825",,2025-01,2026-09
+carpeta3-1609_0546ea28_original.png,normaliza_fondo,"990220
+01 2025
+1243825",,2025-01,
+carpeta3-1609_0546ea28_original.png,unsharp_2x,"010.4
+0:
+9202 60
+01 2025
+124825",,2025-01,
+carpeta3-1609_0670c123_original.png,unsharp_gris,"Pro por
+Uu75
+Bccals
+Siguens en
+oteru
+EJ.RL
+Auf. San. SENASA. 000813 -
+MIDAGRI-SENASA-LIMA-CALLAO
+PRODUCTO PERUANO
+HICH
+948 868 494
+www.botanicals.pe
+COMUNICATECON NOSOTROS:Celular/WhatsApp:
+CODIGO DE SEGURIDAD
+LOTE:241217
+el embaraza
+FV:17/12/2026
+CI:J201224
+7753574000015
+AL COADYUVANTE A TRATAMIENTOS PARARTE PESO. NO CONSIDERADO MEDICINA.",241217,,2026-12
+carpeta3-1609_0670c123_original.png,contraste_cuantiles,"Prodi por
+u751
+Bctacals
+Sigs en'
+otru
+E.J.RL
+Auf. San. SENASA. 000813
+MIDAGRI-SENASA-LIMA-CALLAO
+PRODUCTO PERUANO
+ACCH
+948 868 494
+www.botanicals.pe
+COMUNICATECON NOSOTROS:Celular/WhatsApp:
+CODIGO DESEGURIDAD
+LOTE:241217
+elembaraza
+FV:17/12/2026
+CI:J201224
+7753574000015
+AL COADYUVANTE A TRATAMIENTOS PARARE PESO NO CONSIDERADO MEDICINA",241217,,2026-12
+carpeta3-1609_0670c123_original.png,normaliza_fondo,"R.0.C 20517012751
+Siguenos en:@BokanicalsPery
+Botanicals
+EIRL
+Aut. Son. SENASA. 000813 -
+MIDAGRI-SENASA-LIMA-CALLAO
+PRODUCTO PERUANO
+948 868 494
+twww.botanicals.pe
+HOLA
+COMUNICATE CON NOSOTROS: Celular/WhatsApp:
+CODIGO DE SEGURIDAD
+LOTE:2.217
+FV:17/12/2026
+C1:J201224
+71753574000015
+TE PESQ NO CONSIDERADO MEDICINA
+COADYUVANTE A TRATAMIENTOS PARA",2.217,,2026-12
+carpeta3-1609_0670c123_original.png,unsharp_2x,"Producido por
+R.U.C 20517012751
+Síguenos en:
+BotanicalsPeru
+Botanical's
+Auf. San. SENASA.000813-
+E.I.R.L
+MIDAGRI-SENASA-LIMA-CALLAO
+PRODUCTO PERUANO
+948 868 494
+www.botanicals.pe
+HOLA
+COMUNICATECON NOSOTROS: Celular/WhatsApp:
+CODIGO DE SEGURIDAD
+LOTE:241217
+el embaraza
+FV:17/12/2026
+CI:J201224
+7753574000015
+E.PESO. NO CONSIDERADO MEDICINA.
+AL COADYUVANTE A TRATAMIENTOS PARA",241217,,2026-12
+carpeta3-1609_089af73d_original.png,unsharp_gris,"Fabaicado por Henill S.A
+Laboratorios Industriales Farmacéuticos
+Ay. Los Frutales 220
+Ate Lima-Perù
+8.5:EN-03930
+RUC:20100060150
+Producto Peruano
+PROFESIONALESTRABAJANDO PORLA SALUD",EN-03930,,
+carpeta3-1609_089af73d_original.png,contraste_cuantiles,"Fabricado por Hersil S.A.
+Laboratorios Industriales
+Av. Los Frutales 220
+Ate Lima - Perù
+8.5:EN-03930
+RUC:20100060150
+Producto Peruano",EN-03930,,
+carpeta3-1609_089af73d_original.png,normaliza_fondo,5,,,
+carpeta3-1609_089af73d_original.png,unsharp_2x,"Fabrlcado por Henil S.A.
+Laboratorios Industriales F
+Ay. Los Frutales 220
+Ate Lima - Perù
+R5:EN-03930
+RUC:20100060150
+Producto Peruano
+PROFESIONALESTRABAJANDOPORLASALUD
+0
+701604",EN-03930,,
+carpeta3-1609_0914ed75_original.png,unsharp_gris,"eraf
+ein
+50 5 mL
+LOTE
+Cc02
+FAB
+12/20
+VENO
+Mg 379(H)
+.8
+7799599919101
+Fab por:",Cc02,2020-12,
+carpeta3-1609_0914ed75_original.png,contraste_cuantiles,"Serotocaf
+Cefalexina
+250 mg/5 mL
+LOTE:
+BCY0125002
+F FAB
+12/2025
+F.VENC
+Mfg. Lic.N°: 379-8(H)
+R.S. N°: EE-07484
+7751299001904>
+Fabricado por:",BCY0125002,2025-12,
+carpeta3-1609_0914ed75_original.png,normaliza_fondo,"Serotocaf
+Cefalexina
+250 mg / 5 mL
+LOTE:
+BCY0125002
+12/2022
+F FAB.
+F.VENC
+Mfg Lic N° 379-B(H)
+R.S. N°: EE-07484
+71751299001904>
+Fabricado por:",BCY0125002,,2022-12
+carpeta3-1609_0914ed75_original.png,unsharp_2x,"Serotocaf
+Cefalexina
+010-
+250 mg/5 mL
+LOTE:
+BCY0125002
+F FAB.
+F.VENC
+Mfg. Lic N° 379-B(H)
+R.S. N°: EE-07484
+751299001904
+Fabricado por:",BCY0125002,,
+carpeta3-1609_09a9ac3d_original.png,unsharp_gris,"Cefalexina
+250 mg / 5 mL
+LOTE
+BCY0125002
+120
+F.FAB
+F.VENC
+Mfg. Lic. N°. 379-B(H)
+R.S. N°: EE-07484
+990019041>
+res Limited
+uol de Amal N° 202
+Callao, Perú
+BPM
+BPA
+GMP
+GSP",BCY0125002,,
+carpeta3-1609_09a9ac3d_original.png,contraste_cuantiles,"Cefalexina
+250 mg / 5 mL
+LOTE
+BCY0125002
+12/202
+F.FAB
+F.VENC
+Mfg. Lic. N°: 379-B(H)
+R.S. N°: EE-07484
+990019041>
+jmited
+SAC
+nuol de Amal N° 202
+Callao. Perú.
+BPM
+BPA
+GMP
+GSP",BCY0125002,,
+carpeta3-1609_09a9ac3d_original.png,normaliza_fondo,"Cefalexina
+250 mg/5 mL
+LOTE
+BCY0125002
+12202
+F. FAB.
+F.VENC
+Mffg Lic N°, 379-B(H)
+R.S. N°: EE-07484
+9001904>
+mes Limited
+BAC
+剂
+ de Amal N° 202
+Callac. Pens
+BPM
+BPA
+GMP
+GSP",BCY0125002,,
+carpeta3-1609_09a9ac3d_original.png,unsharp_2x,"Cefalexina
+250 mg/ 5 mL
+LOTE
+BCY0125002
+01/2025
+F.FAB
+12/2026
+F.VENC
+Mfg. Lic. N°: 379-B(H)
+R.S. N°: EE-07484
+99001904>
+res Limited
+ABAC
+ol de Amal N° 202
+Callao, Perú
+BPA
+BPM
+GMP
+GSP",BCY0125002,2025-01,2026-12
