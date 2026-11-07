@@ -1,0 +1,1773 @@
+﻿imagen,filtro,texto_ocr,t_filtro,t_ocr,t_total,lote,res_lote,fecha_fabricacion,res_fab,fecha_caducidad,res_cad,cer_lote,n_ok,n_omit,n_incorr
+carpeta1-0508_036f0258_original.png,baseline,"010.9
+LOTE NG
+MANUF
+24H16G3
+EXF
+16/08/2024
+15/08/2026",0.0,35.342,35.342,24H16G3,correcto,2024-08,correcto,2026-08,correcto,0.0,3,0,0
+carpeta1-0508_036f0258_original.png,adaptativo,"LoTe ho
+Maad
+24H16G3
+Est
+16/08/2024
+15/08/2025",0.009,12.162,12.171000000000001,24H16G3,correcto,2024-08,correcto,2025-08,erroneo,0.0,2,0,1
+carpeta1-0508_036f0258_original.png,binary_otsu," a) a
+3",0.003,10.549,10.552,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta1-0508_036f0258_original.png,mediana_adaptativa,"L04m
+vand
+24H16G3
+16108/2024
+15108/2025",0.008,11.919,11.927,24H16G3,correcto,,omitido,,omitido,0.0,1,2,0
+carpeta1-0508_036f0258_original.png,unsharp_masking,"LOTE 1S
+4A4
+24H16G3
+fel
+16/C8/2024
+15/08/2025",0.004,11.879,11.883,24H16G3,correcto,2024-08,correcto,2025-08,erroneo,0.0,2,0,1
+carpeta1-0508_036f0258_original.png,pipeline_super_adaptativo,"5
+二",0.026,10.633,10.658999999999999,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta1-0508_036f0258_original.png,unsharp_gris,"010.5
+LOTE No
+MANUF
+24H16G3
+16/08/2024
+15/08/2026",0.002,12.28,12.282,24H16G3,correcto,2024-08,correcto,2026-08,correcto,0.0,3,0,0
+carpeta1-0508_036f0258_original.png,contraste_cuantiles,"LOTE No
+MANUF
+24H16G3
+16/08/2024
+15/08/2026",0.016,11.614,11.63,24H16G3,correcto,2024-08,correcto,2026-08,correcto,0.0,3,0,0
+carpeta1-0508_036f0258_original.png,normaliza_fondo,"LOTE NO
+MANUF.
+24H16G3
+EXF
+16/08/2024
+15/08/2026",0.046,12.527,12.572999999999999,24H16G3,correcto,2024-08,correcto,2026-08,correcto,0.0,3,0,0
+carpeta1-0508_036f0258_original.png,unsharp_2x,"070.5
+LOTE No
+MANUF
+24H16G3
+EXF
+16/08/2024
+15/08/2026",0.019,43.031,43.05,24H16G3,correcto,2024-08,correcto,2026-08,correcto,0.0,3,0,0
+carpeta1-0508_036f0258_original.png,reescalado_bilateral,"070.9
+LOTE NO
+MANUF
+24H16G3
+EXF
+16/08/2024
+15/08/2026",0.072,114.514,114.586,24H16G3,correcto,2024-08,correcto,2026-08,correcto,0.0,3,0,0
+carpeta1-0508_036f0258_original.png,polaridad_clahe,"LOTE No
+MANUF
+24H16G3
+16/08/2024
+15/08/2026",0.012,34.408,34.42,24H16G3,correcto,2024-08,correcto,2026-08,correcto,0.0,3,0,0
+carpeta1-0508_036f0258_original.png,blackhat_corregido,"LOTE No
+MANUF
+24H16G3
+16/08/2024
+15/08/2026",0.005,34.927,34.932,24H16G3,correcto,2024-08,correcto,2026-08,correcto,0.0,3,0,0
+carpeta1-0508_036f0258_original.png,gris_clahe,"010.5
+LOTE No
+MANUF
+24H16G3
+16/08/2024
+15/08/2026",0.007,29.129,29.136000000000003,24H16G3,correcto,2024-08,correcto,2026-08,correcto,0.0,3,0,0
+carpeta1-0508_036f0258_original.png,clahe_lab,"010.9
+LOTE NG
+MANUF
+24H16G3
+16/08/2024
+15/08/2026",0.024,29.476,29.5,24H16G3,correcto,2024-08,correcto,2026-08,correcto,0.0,3,0,0
+carpeta1-0508_036f0258_original.png,brillo_contraste,"010.9
+LOTE NO
+MANUF
+24H16G3
+EXF
+16/08/2024
+15/08/2026",0.004,36.549,36.553,24H16G3,correcto,2024-08,correcto,2026-08,correcto,0.0,3,0,0
+carpeta1-0508_036f0258_original.png,gamma_0.6,"010.5
+LOTE NG
+MANUF
+24H16G3
+EXF
+16/08/2024
+15/08/2026",0.002,17.183,17.185,24H16G3,correcto,2024-08,correcto,2026-08,correcto,0.0,3,0,0
+carpeta1-0508_036f0258_original.png,normalizar_minmax,"010.9
+LOTE NG
+MANUF
+24H16G3
+EXF
+16/08/2024
+15/08/2026",0.002,9.821,9.823,24H16G3,correcto,2024-08,correcto,2026-08,correcto,0.0,3,0,0
+carpeta1-0508_0421afbc_original.png,baseline,"932155
+Lot
+Mandl
+08/24
+Exp
+08/26",0.0,10.819,10.819,932155,correcto,2024-08,correcto,2026-08,correcto,0.0,3,0,0
+carpeta1-0508_0421afbc_original.png,adaptativo,"900
+3
+) ) 
+211
+02
+540
+5
+Lp.",0.009,14.704,14.713000000000001,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta1-0508_0421afbc_original.png,binary_otsu,2,0.003,11.508,11.511,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta1-0508_0421afbc_original.png,mediana_adaptativa,"900
+3  
+1
+5
+5
+2
+0
+es",0.008,14.583,14.591,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta1-0508_0421afbc_original.png,unsharp_masking,"0 0 0
+m0
+0
+20
+05
+5",0.005,13.128,13.133000000000001,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta1-0508_0421afbc_original.png,pipeline_super_adaptativo,11,0.032,13.316,13.348,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta1-0508_0421afbc_original.png,unsharp_gris,"9 3 2 1 5 5
+Lot
+08/24
+Mandl
+08/26",0.002,14.137,14.139000000000001,,omitido,2024-08,correcto,2026-08,correcto,1.0,2,1,0
+carpeta1-0508_0421afbc_original.png,contraste_cuantiles,"9 3 2 1 5 5
+08/24
+08/26",0.017,13.959,13.975999999999999,,omitido,2024-08,correcto,2026-08,correcto,1.0,2,1,0
+carpeta1-0508_0421afbc_original.png,normaliza_fondo,"9 3 2 1 55
+lat
+Hand
+0 8 /2 4
+Ep:
+08/26",0.046,15.415,15.460999999999999,,omitido,,omitido,2026-08,correcto,1.0,1,2,0
+carpeta1-0508_0421afbc_original.png,unsharp_2x,"
+9 3 2 1 5 5
+La
+08/24
+Mandl
+08/26
+Exp:",0.02,50.876,50.896,,omitido,2024-08,correcto,2026-08,correcto,1.0,2,1,0
+carpeta1-0508_0421afbc_original.png,reescalado_bilateral,"CPPC
+932155
+La
+08/24
+Mandl
+08/26
+Ep:",0.081,43.508,43.589000000000006,932155,correcto,2024-08,correcto,2026-08,correcto,0.0,3,0,0
+carpeta1-0508_0421afbc_original.png,polaridad_clahe,"9 3 2 1 5 5
+08/24
+08/26",0.004,11.289,11.293,,omitido,2024-08,correcto,2026-08,correcto,1.0,2,1,0
+carpeta1-0508_0421afbc_original.png,blackhat_corregido,"9 3 2 1 5 5
+Lot
+08/24
+Mand
+08/26",0.002,9.305,9.307,,omitido,2024-08,correcto,2026-08,correcto,1.0,2,1,0
+carpeta1-0508_0421afbc_original.png,gris_clahe,"GRAO
+9 3 2 1 5 5
+08/24
+08/26",0.002,9.345,9.347000000000001,,omitido,2024-08,correcto,2026-08,correcto,1.0,2,1,0
+carpeta1-0508_0421afbc_original.png,clahe_lab,"GRAO
+9 3 2 1 5 5
+08/24
+08/26",0.007,9.658,9.665,,omitido,2024-08,correcto,2026-08,correcto,1.0,2,1,0
+carpeta1-0508_0421afbc_original.png,brillo_contraste,"9 3 2 1 5 5
+Lot
+Mandl
+08/24
+Exp
+08/26",0.001,9.941,9.942,,omitido,2024-08,correcto,2026-08,correcto,1.0,2,1,0
+carpeta1-0508_0421afbc_original.png,gamma_0.6,"GRAS
+9 3 2 1 5 5
+Lot
+Mandl
+08/24
+Exp
+08/26",0.001,10.48,10.481,,omitido,2024-08,correcto,2026-08,correcto,1.0,2,1,0
+carpeta1-0508_0421afbc_original.png,normalizar_minmax,"932155
+Lot
+Mandl
+08/24
+08/26
+Exp",0.001,10.475,10.475999999999999,932155,correcto,2024-08,correcto,2026-08,correcto,0.0,3,0,0
+carpeta1-0508_0724983f_original.png,baseline,"80799
+Lote No.:0AF0434A
+F.Manuf.:09/2024
+F.Exp.1 08/2026
+8901127037957
+E99PWN8R6SZ",0.0,10.713,10.713,0AF0434A,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta1-0508_0724983f_original.png,adaptativo,"0799
+LOtO NO.LOAFO634A
+F.MAnuf.:09/2024
+F.Exp.1 C812020
+1201127037957
+1995W489652",0.008,10.745,10.752999999999998,LOAFO634A,erroneo,2024-09,correcto,,omitido,0.5,1,1,1
+carpeta1-0508_0724983f_original.png,binary_otsu,,0.003,8.291,8.294,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta1-0508_0724983f_original.png,mediana_adaptativa,"00799
+LOCO NO.LOAFCLS4A
+F.Monuf.:C3/2024
+F.520.1 C812020
+5401127031937
+1375W5E9652",0.008,10.495,10.502999999999998,LOAFCLS4A,erroneo,,omitido,2024-03,erroneo,0.625,0,1,2
+carpeta1-0508_0724983f_original.png,unsharp_masking,0799,0.004,8.948,8.952,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta1-0508_0724983f_original.png,pipeline_super_adaptativo,,0.029,8.656,8.685,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta1-0508_0724983f_original.png,unsharp_gris,"0
+80799
+Lote No.:0AF0434A
+F.Manuf.:09/2024
+F.Exp,1 08/2026
+8901127037957
+E99PWN8R6SZ",0.002,10.417,10.419,0AF0434A,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta1-0508_0724983f_original.png,contraste_cuantiles,"80799
+LoteNo.1BAF0434A
+F.Manuf.:09/2024
+F,Exp,1 08/2026
+8901127037957
+E99PWN8R6SZ",0.017,11.073,11.09,1BAF0434A,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta1-0508_0724983f_original.png,normaliza_fondo,"90799
+Lote No.1BAF0434A
+F.Manuf.:09/2024
+F.Exp,1 08/2026
+8901127037957
+199PWN8R6SZ",0.04,10.789,10.828999999999999,1BAF0434A,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta1-0508_0724983f_original.png,unsharp_2x,"30799
+Lote No.10AF0434A
+F.Manuf,:09/2024
+F.Exp,1 08/2026
+18901127037957
+E99PWN8R6SZ",0.015,34.668,34.683,10AF0434A,erroneo,2024-09,correcto,2026-08,correcto,0.25,2,0,1
+carpeta1-0508_0724983f_original.png,reescalado_bilateral,"80799
+Lote No.1BAF0434A
+F.Manuf.:09/2024
+F.Exp.1 08/2026
+8901127037957
+199PWN8R6SZ",0.087,43.989,44.076,1BAF0434A,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta1-0508_0724983f_original.png,polaridad_clahe,"C
+80799
+Lote No.:BAF0434A
+F.Manuf.:09/2024
+F.Exp,1 08/2026
+8901127037957
+78988NM3661",0.009,16.688,16.697,BAF0434A,correcto,2024-09,correcto,2026-08,correcto,0.0,3,0,0
+carpeta1-0508_0724983f_original.png,blackhat_corregido,"80799
+Lote No.:0AF0434A
+F.Manuf.:09/2024
+F.Exp,1 08/2026
+8901127037957
+E99PWN8R6SZ",0.003,12.402,12.405,0AF0434A,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta1-0508_0724983f_original.png,gris_clahe,"6R
+80799
+Lote No.:BAF0434A
+F.Manuf.:09/2024
+F.Exp,1 08/2026
+8901127037957
+199PWN8R6SZ",0.002,12.594,12.596,BAF0434A,correcto,2024-09,correcto,2026-08,correcto,0.0,3,0,0
+carpeta1-0508_0724983f_original.png,clahe_lab,"a
+0799
+Lote No.10AF0434A
+F.Manuf.:09/2024
+F.Exp,1 08/2026
+8901127037957
+E99PWN8R6SZ",0.007,14.388,14.395,10AF0434A,erroneo,2024-09,correcto,2026-08,correcto,0.25,2,0,1
+carpeta1-0508_0724983f_original.png,brillo_contraste,"2D
+0799
+Lote No.:0AF0434A
+F.Manuf.:09/2024
+F.Exp,1 08/2026
+8901127037957
+E99PWN8R6SZ",0.001,11.923,11.924,0AF0434A,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta1-0508_0724983f_original.png,gamma_0.6,"90799
+Lote No.:0AF0434A
+F.Manuf.:09/2024
+F.Exp,1 08/2026
+8901127037957
+E99PWN8R6SZ",0.001,11.355,11.356,0AF0434A,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta1-0508_0724983f_original.png,normalizar_minmax,"6799
+O0t4
+P.MMa.009024
+.0021×2026
+9795
+7998SNM563",0.002,10.76,10.762,7998SNM563,erroneo,,omitido,,omitido,1.0,0,2,1
+carpeta1-0508_09d0cb17_original.png,baseline,"2024/11/04
+10202411042026/11/03",0.0,8.624,8.624,,omitido,2024-11,correcto,2026-11,correcto,1.0,2,1,0
+carpeta1-0508_09d0cb17_original.png,adaptativo,"2024/11/04
+202411042026/11/03",0.008,8.517,8.524999999999999,,omitido,2024-11,correcto,2026-11,correcto,1.0,2,1,0
+carpeta1-0508_09d0cb17_original.png,binary_otsu,,0.002,8.371,8.373000000000001,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta1-0508_09d0cb17_original.png,mediana_adaptativa,"2024/11/04
+202411042026/11/03",0.011,13.906,13.917,,omitido,2024-11,correcto,2026-11,correcto,1.0,2,1,0
+carpeta1-0508_09d0cb17_original.png,unsharp_masking,,0.004,7.692,7.696,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta1-0508_09d0cb17_original.png,pipeline_super_adaptativo,,0.021,8.259,8.280000000000001,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta1-0508_09d0cb17_original.png,unsharp_gris,"2024/11/04
+107202411042026/11/03",0.002,9.118,9.120000000000001,,omitido,2024-11,correcto,2026-11,correcto,1.0,2,1,0
+carpeta1-0508_09d0cb17_original.png,contraste_cuantiles,"2024/11/04
+202411042026/11/03",0.014,9.083,9.097,,omitido,2024-11,correcto,2026-11,correcto,1.0,2,1,0
+carpeta1-0508_09d0cb17_original.png,normaliza_fondo,"2024/11/04
+202411042026/11/03",0.051,9.514,9.565,,omitido,2024-11,correcto,2026-11,correcto,1.0,2,1,0
+carpeta1-0508_09d0cb17_original.png,unsharp_2x,"R
+M/202/1/04
+ 211",0.015,34.743,34.758,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta1-0508_09d0cb17_original.png,reescalado_bilateral,"2024/11/04
+202411042026/11/03",0.084,33.173,33.257000000000005,,omitido,2024-11,correcto,2026-11,correcto,1.0,2,1,0
+carpeta1-0508_09d0cb17_original.png,polaridad_clahe,"2024/11/04
+1202411042026/11/03",0.004,9.38,9.384,,omitido,2024-11,correcto,2026-11,correcto,1.0,2,1,0
+carpeta1-0508_09d0cb17_original.png,blackhat_corregido,"2024/11/04
+202411042026/11/03",0.002,9.325,9.327,,omitido,2024-11,correcto,2026-11,correcto,1.0,2,1,0
+carpeta1-0508_09d0cb17_original.png,gris_clahe,"SWAO
+2024/11/04
+1202411042026/11/03",0.002,9.873,9.875,,omitido,2024-11,correcto,2026-11,correcto,1.0,2,1,0
+carpeta1-0508_09d0cb17_original.png,clahe_lab,"SWAU
+2024/11/04
+10202411042026/11/03",0.007,9.598,9.605,,omitido,2024-11,correcto,2026-11,correcto,1.0,2,1,0
+carpeta1-0508_09d0cb17_original.png,brillo_contraste,"2024/11/04
+10202411042026/11/03",0.001,8.5,8.501,,omitido,2024-11,correcto,2026-11,correcto,1.0,2,1,0
+carpeta1-0508_09d0cb17_original.png,gamma_0.6,"FWA
+2024/11/04
+10202411042026/11/03",0.001,8.524,8.524999999999999,,omitido,2024-11,correcto,2026-11,correcto,1.0,2,1,0
+carpeta1-0508_09d0cb17_original.png,normalizar_minmax,"2024/11/04
+10202411042026/11/03",0.001,8.28,8.280999999999999,,omitido,2024-11,correcto,2026-11,correcto,1.0,2,1,0
+carpeta1-0508_0d5e6be4_original.png,baseline,"m
+GTIN:18901127028504
+Sr. No.: B8NTAWB62BU
+Lote No.: DNF08808
+F.Manuf.:09/2024
+f.Exp.: 08/2026
+Repuba
+cina 150",0.0,11.284,11.284,DNF08808,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta1-0508_0d5e6be4_original.png,adaptativo,"6TIN: 18901127028504
+Sr. No.: B9NTAB6Bu
+Lote ho.: oNrORPc
+.Hanut.: 09/2024
+F.Exp.: 08/2026
+A0
+cra150",0.008,10.792,10.799999999999999,B9NTAB6Bu,erroneo,2024-09,correcto,2026-08,correcto,1.0,2,0,1
+carpeta1-0508_0d5e6be4_original.png,binary_otsu,,0.003,8.329,8.332,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta1-0508_0d5e6be4_original.png,mediana_adaptativa,"15901127028504
+0912024
+C8/2026
+cra150",0.007,9.449,9.456,,omitido,,omitido,2026-08,correcto,1.0,1,2,0
+carpeta1-0508_0d5e6be4_original.png,unsharp_masking,,0.004,8.27,8.274,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta1-0508_0d5e6be4_original.png,pipeline_super_adaptativo,,0.03,8.82,8.85,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta1-0508_0d5e6be4_original.png,unsharp_gris,"6日
+GTIN: 18901127028504
+Sr. No.: B8NTAWB62BU
+Lote No.: DNF08808
+F.Manuf.: 09/2024
+f.Exp.: 08/2026
+Repuba
+cina 150",0.002,10.545,10.547,DNF08808,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta1-0508_0d5e6be4_original.png,contraste_cuantiles,"6TIN: 18901127028504
+Sr. No.: BBNTAWB62BU
+Lote No.: DNF08808
+F.Menuf.: 09/2024
+F.Exp.: 08/2026
+Repuba
+icina 150",0.014,10.165,10.178999999999998,DNF08808,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta1-0508_0d5e6be4_original.png,normaliza_fondo,"6TIN:18901127028504
+Sr. No.: 88NTAW862BU
+Lote No.: DNF08808
+F.Manu9.: 09/2024
+f.Exp.: 08/2026
+Hp
+cina150",0.031,10.874,10.905000000000001,DNF08808,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta1-0508_0d5e6be4_original.png,unsharp_2x,"8
+GTIN: 18901127028504
+Sr. No.: BBNTAWB62BU
+Lote No.: DNF08808
+F.Manuf.: 09/2024
+F.Exp.: 08/2026
+Repube
+cina150",0.02,35.409,35.429,DNF08808,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta1-0508_0d5e6be4_original.png,reescalado_bilateral,"B
+GTIN:18901127028504
+Sr. No.: 88NTAWB62BU
+Lote No.: 0NF08808
+F.Menuf.:09/2024
+f.Exp.:08/2026
+Repuba
+cina1501",0.079,37.788,37.867,0NF08808,erroneo,2024-09,correcto,2026-08,correcto,0.25,2,0,1
+carpeta1-0508_0d5e6be4_original.png,polaridad_clahe,"8
+6TIN: 18901127028504
+Sr. No.: BBNTAWB628U
+Lote No.: DNF08808
+F.Manuf.: 09/2024
+F.Exp.: 08/2026
+Roou
+cina 150",0.004,10.957,10.961,DNF08808,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta1-0508_0d5e6be4_original.png,blackhat_corregido,"8
+GTIN: 18901127028504
+Sr. No.: B8NTAWB628U
+Lote No.: DNF08808
+F.Manuf.: 09/2024
+F.Exp.: 08/2026
+Repub
+cina 150",0.002,10.815,10.817,DNF08808,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta1-0508_0d5e6be4_original.png,gris_clahe,"6TIN: 18901127028504
+Sr. No.: B8NTAWB62BU
+Lote No.: ONF08808
+F.Manuf.: 09/2024
+F.Exp.: 08/2026
+Repuba
+cina150",0.002,11.089,11.091000000000001,ONF08808,erroneo,2024-09,correcto,2026-08,correcto,0.25,2,0,1
+carpeta1-0508_0d5e6be4_original.png,clahe_lab,"B
+GTIN: 18901127028504
+Sr. No.: B8NTAWB62BU
+Lote No.: DNF08808
+F.Manuf.: 09/2024
+F.Exp.: 08/2026
+Repuba
+cina 150",0.007,12.739,12.746,DNF08808,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta1-0508_0d5e6be4_original.png,brillo_contraste,"GTIN: 18901127028504
+Sr. No.: BBNTAWB62BU
+Lote No.: DNF08808
+F.Manuf.:09/2024
+f.Exp.: 08/2026
+Repuba
+cina 150",0.001,10.8,10.801,DNF08808,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta1-0508_0d5e6be4_original.png,gamma_0.6,"B
+GTIN:18901127028504
+Sr. No.: B8NTAWB62BU
+Lote No.: DNF08808
+F.Manuf.: 09/2024
+F.Exp.:08/2026
+Repuba
+cina150",0.001,10.576,10.577,DNF08808,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta1-0508_0d5e6be4_original.png,normalizar_minmax,"B
+GTIN: 18901127028504
+Sr. No.: B8NTAWB62BU
+Lote No.: DNF08808
+F.Manuf.: 09/2024
+f.Exp.: 08/2026
+Repuba
+cina 150",0.001,10.697,10.697999999999999,DNF08808,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta2-1408_011935a0_original.png,baseline,"L:2120064
+V:12-2026",0.0,8.392,8.392,2120064,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_011935a0_original.png,adaptativo,"67
+L:2120064
+:12-2026",0.006,8.66,8.666,2120064,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_011935a0_original.png,binary_otsu,5,0.003,8.038,8.041,,omitido,,correcto,,omitido,1.0,1,2,0
+carpeta2-1408_011935a0_original.png,mediana_adaptativa,"L:2120064
+U:12-2026",0.007,8.897,8.904,2120064,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_011935a0_original.png,unsharp_masking,"210064
+V12-2026",0.003,8.849,8.852,210064,erroneo,,correcto,2026-12,correcto,0.14285714285714285,2,0,1
+carpeta2-1408_011935a0_original.png,pipeline_super_adaptativo,2,0.021,7.903,7.9239999999999995,,omitido,,correcto,,omitido,1.0,1,2,0
+carpeta2-1408_011935a0_original.png,unsharp_gris,"L:2120064
+V:12-2026",0.002,8.111,8.113000000000001,2120064,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_011935a0_original.png,contraste_cuantiles,"L:2120064
+V:12-2026",0.015,8.576,8.591000000000001,2120064,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_011935a0_original.png,normaliza_fondo,"L:2120064
+U:12-2026",0.054,8.805,8.859,2120064,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_011935a0_original.png,unsharp_2x,"6
+L:2120064
+U:12-2026",0.015,32.545,32.56,2120064,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_011935a0_original.png,reescalado_bilateral,"L:2120064
+U:12-2026",0.079,32.274,32.353,2120064,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_011935a0_original.png,polaridad_clahe,"L:2120064
+V:12-2026",0.004,8.166,8.17,2120064,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_011935a0_original.png,blackhat_corregido,"L:2120064
+V:12-2026",0.002,10.085,10.087000000000002,2120064,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_011935a0_original.png,gris_clahe,"L:2120064
+V:12-2026",0.002,13.36,13.362,2120064,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_011935a0_original.png,clahe_lab,"L:2120064
+V:12-2026",0.009,13.695,13.704,2120064,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_011935a0_original.png,brillo_contraste,"L:2120064
+V:12-2026",0.002,12.422,12.424000000000001,2120064,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_011935a0_original.png,gamma_0.6,"L:2120064
+V:12-2026",0.001,9.072,9.072999999999999,2120064,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_011935a0_original.png,normalizar_minmax,"L:2120064
+U:12-2026",0.002,8.185,8.187000000000001,2120064,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_01200be4_original.png,baseline,"Lote:
+Elab:
+Cad:
+4031037
+20/DIC/24
+20/DIC/26U44",0.0,9.999,9.999,4031037,correcto,2024-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_01200be4_original.png,adaptativo,"Lote:
+Elab:
+Cad:
+4031037
+20/DIC/24
+20/DIC/26 U44",0.007,9.995,10.001999999999999,4031037,correcto,2024-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_01200be4_original.png,binary_otsu,"R
+4011037
+30/C/24
+200/2644",0.003,9.6,9.603,4011037,erroneo,,omitido,,omitido,0.14285714285714285,0,2,1
+carpeta2-1408_01200be4_original.png,mediana_adaptativa,"Lote
+Elob:
+Cad:
+4031037
+20/DIC/24
+20/DIC/26 U44",0.006,10.671,10.677,4031037,correcto,2024-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_01200be4_original.png,unsharp_masking,"111
+Hab
+Calt
+4031037
+20/DIC/24
+20/DIC/26 U44",0.004,10.707,10.711,4031037,correcto,2024-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_01200be4_original.png,pipeline_super_adaptativo,,0.023,8.192,8.215,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta2-1408_01200be4_original.png,unsharp_gris,"Lote:
+Elab:
+Cad:
+4031037
+20/DIC/24
+20/DIC/26U44",0.002,10.111,10.113000000000001,4031037,correcto,2024-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_01200be4_original.png,contraste_cuantiles,"Lote:
+Elab:
+Cad:
+4031037
+20>DIC>24
+20/DIC/26~U44",0.013,10.0,10.013,4031037,correcto,2024-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_01200be4_original.png,normaliza_fondo,"Lote:
+Elab:
+Cad:
+4031037
+20/DIC/24",0.032,10.022,10.054,4031037,correcto,,omitido,2024-12,erroneo,0.0,1,1,1
+carpeta2-1408_01200be4_original.png,unsharp_2x,"Lote:
+Elab:
+Cad:
+4031037
+20/DIC/24
+20
+/DIC/26U44",0.02,34.869,34.889,4031037,correcto,2024-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_01200be4_original.png,reescalado_bilateral,"Lote:
+Elab:
+Cad:
+4031037
+20/DIC/24
+U44",0.066,32.394,32.46,4031037,correcto,,omitido,2024-12,erroneo,0.0,1,1,1
+carpeta2-1408_01200be4_original.png,polaridad_clahe,"Lote:
+Elab:
+Cad:
+4031037
+20/DIC/24
+20/DIC/26~U44",0.003,10.334,10.337,4031037,correcto,2024-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_01200be4_original.png,blackhat_corregido,"Lote:
+Elab:
+Cad:
+4031037
+20/DIC/24
+20/DIC/26U44",0.002,10.265,10.267000000000001,4031037,correcto,2024-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_01200be4_original.png,gris_clahe,"Lote:
+Elab:
+Cad:
+4031037
+20/DIC/24
+20/DIC/26~U44",0.002,11.89,11.892000000000001,4031037,correcto,2024-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_01200be4_original.png,clahe_lab,"Lote:
+Elab:
+Cad:
+4031037
+20/DIC/24
+20/DIC/26U44",0.007,9.882,9.889,4031037,correcto,2024-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_01200be4_original.png,brillo_contraste,"Lote:
+Elab:
+Cad:
+4031037
+20>DIC/24
+20/DIC/26U44",0.001,11.984,11.985,4031037,correcto,2024-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_01200be4_original.png,gamma_0.6,"Lote:
+Elab:
+Cad:
+4031037
+20/DIC/24
+20/DIC/26U44",0.001,9.575,9.575999999999999,4031037,correcto,2024-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_01200be4_original.png,normalizar_minmax,"Lote:
+Elab:
+Cad:
+4031037
+20/DIC/24
+20/DIC/26U44",0.001,11.39,11.391,4031037,correcto,2024-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_0303fac1_original.png,baseline,"54Y20W
+12-2026",0.0,9.096,9.096,54Y20W,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_0303fac1_original.png,adaptativo,,0.006,7.628,7.634,,omitido,,correcto,,omitido,1.0,1,2,0
+carpeta2-1408_0303fac1_original.png,binary_otsu,"
+G",0.002,8.317,8.319,,omitido,,correcto,,omitido,1.0,1,2,0
+carpeta2-1408_0303fac1_original.png,mediana_adaptativa,CEF,0.006,8.506,8.512,,omitido,,correcto,,omitido,1.0,1,2,0
+carpeta2-1408_0303fac1_original.png,unsharp_masking,,0.004,8.384,8.388,,omitido,,correcto,,omitido,1.0,1,2,0
+carpeta2-1408_0303fac1_original.png,pipeline_super_adaptativo,#,0.021,7.663,7.684,,omitido,,correcto,,omitido,1.0,1,2,0
+carpeta2-1408_0303fac1_original.png,unsharp_gris,"54V20W
+12-2026",0.001,9.196,9.197,54V20W,erroneo,,correcto,2026-12,correcto,0.16666666666666666,2,0,1
+carpeta2-1408_0303fac1_original.png,contraste_cuantiles,"54V20W
+12-2026",0.013,8.203,8.216,54V20W,erroneo,,correcto,2026-12,correcto,0.16666666666666666,2,0,1
+carpeta2-1408_0303fac1_original.png,normaliza_fondo,"54Y20W
+12-2026",0.03,8.354,8.383999999999999,54Y20W,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_0303fac1_original.png,unsharp_2x,"S4Y20H
+12-2026
+口",0.016,31.822,31.837999999999997,S4Y20H,erroneo,,correcto,2026-12,correcto,0.3333333333333333,2,0,1
+carpeta2-1408_0303fac1_original.png,reescalado_bilateral,"925
+B",0.131,33.444,33.575,,omitido,,correcto,,omitido,1.0,1,2,0
+carpeta2-1408_0303fac1_original.png,polaridad_clahe,"54Y20W
+12-2026",0.003,10.094,10.097,54Y20W,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_0303fac1_original.png,blackhat_corregido,"54V20W
+12-2026",0.002,12.214,12.216000000000001,54V20W,erroneo,,correcto,2026-12,correcto,0.16666666666666666,2,0,1
+carpeta2-1408_0303fac1_original.png,gris_clahe,"54Y20W
+12-2026",0.005,12.486,12.491000000000001,54Y20W,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_0303fac1_original.png,clahe_lab,"54Y20W
+12-2026",0.011,12.035,12.046,54Y20W,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_0303fac1_original.png,brillo_contraste,"54Y20W
+12-2026",0.001,11.833,11.834,54Y20W,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_0303fac1_original.png,gamma_0.6,"54Y20W
+12-2026",0.002,11.733,11.735000000000001,54Y20W,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_0303fac1_original.png,normalizar_minmax,"54Y20W
+12-2026",0.002,11.427,11.429,54Y20W,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_03d36f66_original.png,baseline,"
+EXP
+12 2026
+LOT
+TDTX3
+MFD
+01 2024",0.0,13.836,13.836,TDTX3,correcto,2024-01,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_03d36f66_original.png,adaptativo,"R
+3
+920226
+107
+DIa
+Can
+01 2024",0.016,14.049,14.065,920226,erroneo,,omitido,2024-01,erroneo,1.0,0,1,2
+carpeta2-1408_03d36f66_original.png,binary_otsu,"mm3
+01 2024",0.003,11.624,11.627,,omitido,2024-01,correcto,,omitido,1.0,1,2,0
+carpeta2-1408_03d36f66_original.png,mediana_adaptativa,"6
+23
+12:2026
+157
+DUD
+Can
+012026",0.008,14.636,14.643999999999998,,omitido,,omitido,2026-01,erroneo,1.0,0,2,1
+carpeta2-1408_03d36f66_original.png,unsharp_masking,"TDDX3
+012024",0.007,8.667,8.674,TDDX3,erroneo,2024-01,correcto,,omitido,0.2,1,1,1
+carpeta2-1408_03d36f66_original.png,pipeline_super_adaptativo,"③
+9202 21
+EXICI
+20210",0.024,8.571,8.594999999999999,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta2-1408_03d36f66_original.png,unsharp_gris," 5 8
+122026
+TDTX3
+01 2024",0.001,8.308,8.309,TDTX3,correcto,2024-01,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_03d36f66_original.png,contraste_cuantiles,"DP
+12 2026
+LOT
+TDTX3
+MFD
+01 2024",0.014,8.851,8.865,TDTX3,correcto,2024-01,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_03d36f66_original.png,normaliza_fondo,"10
+85星
+12 2026
+TDDX3
+01 2026",0.033,9.218,9.251,TDDX3,erroneo,2026-01,erroneo,2026-12,correcto,0.2,1,0,2
+carpeta2-1408_03d36f66_original.png,unsharp_2x,"100
+EXP
+12 2026
+LOT
+TDTX3
+MFD
+01 2024",0.014,33.496,33.510000000000005,TDTX3,correcto,2024-01,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_03d36f66_original.png,reescalado_bilateral,"EXP
+12 2026
+LOT
+TDTX3
+MFD
+01 2024
+
+
+",0.072,32.773,32.845000000000006,TDTX3,correcto,2024-01,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_03d36f66_original.png,polaridad_clahe,"(S:
+8 5 号
+122026
+TDTX3
+01 2024",0.003,8.994,8.997,TDTX3,correcto,2024-01,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_03d36f66_original.png,blackhat_corregido," 5 8
+122026
+TDTX3
+01 2024",0.002,8.851,8.853000000000002,TDTX3,correcto,2024-01,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_03d36f66_original.png,gris_clahe,"10:
+8 5 
+122026
+TDTX3
+01 2024",0.002,9.172,9.174000000000001,TDTX3,correcto,2024-01,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_03d36f66_original.png,clahe_lab,"10
+EXP
+122026
+LOT
+TDTX3
+MFD
+01 2024",0.006,9.425,9.431000000000001,TDTX3,correcto,2024-01,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_03d36f66_original.png,brillo_contraste,"EXP
+12 2026
+LOT
+TDTX3
+MFD
+01 2024",0.001,9.203,9.203999999999999,TDTX3,correcto,2024-01,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_03d36f66_original.png,gamma_0.6,"EXP
+12 2026
+LOT
+TDTX3
+MFD
+01 2024",0.001,9.253,9.254,TDTX3,correcto,2024-01,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_03d36f66_original.png,normalizar_minmax,"87
+EP
+122026
+LOT
+TDTX3
+MFD
+01 2024",0.001,9.594,9.594999999999999,TDTX3,correcto,2024-01,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_0656b9aa_original.png,baseline,"Inpredents Aoua, C12-15 Aky Benzate Öctity
+1076
+LOTE: 30015001
+FAB:
+2023/12/13
+CAD:
+2026/12/13",0.0,10.644,10.644,30015001,correcto,2023-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_0656b9aa_original.png,adaptativo,"03040""018076"">
+FOOSTOOS 3101
+152021
+COTO",0.006,9.629,9.635,152021,erroneo,,omitido,,omitido,0.625,0,2,1
+carpeta2-1408_0656b9aa_original.png,binary_otsu,"103040""018076
+TOOSTODS
+S0/21220S
+CV)
+20A21212",0.003,9.682,9.685,20A21212,erroneo,,omitido,,omitido,0.875,0,2,1
+carpeta2-1408_0656b9aa_original.png,mediana_adaptativa,"3040""018076"">
+FOOSTOOS 3201
+AS1
+C0O
+0",0.007,9.857,9.863999999999999,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta2-1408_0656b9aa_original.png,unsharp_masking,"
+1030076
+1O0
+30015001
+FA5
+2023/12/13
+CAO
+2026/12/13",0.003,10.929,10.932,,omitido,2023-12,correcto,2026-12,correcto,1.0,2,1,0
+carpeta2-1408_0656b9aa_original.png,pipeline_super_adaptativo,,0.021,7.692,7.713,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta2-1408_0656b9aa_original.png,unsharp_gris,"Inpredents Aua, C12-15 Aky Bemzate Oaty
+me lanam Doce Nel Ém Pé
+1076`
+LOTE: 30015001
+FAB:
+2023/12/13
+CAD:
+2026/12/13",0.001,11.217,11.218,30015001,correcto,2023-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_0656b9aa_original.png,contraste_cuantiles,"Inpredents Agua, C12-15 Aky Bemzate Ocity
+10376
+LOTE: 30015001
+FAB:
+2023/12/13
+CAD:
+2026/12/13
+4",0.014,11.629,11.642999999999999,30015001,correcto,2023-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_0656b9aa_original.png,normaliza_fondo,"Inpredents Aous (12-15 Aky Bencaate Ctpty
+amen De A m apem
+10000761
+N
+
+
+LOTE:30015001
+FAB:2023/12/13
+CAD: 2026/12/13",0.04,11.877,11.917,30015001,correcto,2023-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_0656b9aa_original.png,unsharp_2x,"""018076
+103040
+LOOTE:
+FOOSTOOS
+AB:
+2032/13
+CAD:
+2026/12/13",0.013,32.698,32.711,103040,erroneo,,omitido,2026-12,correcto,0.75,1,1,1
+carpeta2-1408_0656b9aa_original.png,reescalado_bilateral,"103040""01807
+LLOTE
+FOOSTOOS
+FA:
+全0//13
+CAD:
+2026/12/13",0.066,33.167,33.233000000000004,,omitido,,omitido,2026-12,correcto,1.0,1,2,0
+carpeta2-1408_0656b9aa_original.png,polaridad_clahe,"103040""018076""
+L0TE01
+FAB:
+服0/13
+CAD:
+206//3",0.003,10.058,10.061,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta2-1408_0656b9aa_original.png,blackhat_corregido,"Ipredents Aua, C12-15 Aky Semzate Octy
+10076`
+LOTE:
+30015001
+FAB:
+2023/12/13
+CAD:
+2026/12/13
+4",0.002,11.193,11.195,30015001,correcto,2023-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_0656b9aa_original.png,gris_clahe,"      
+""103040""018076"">
+L0TO01
+FAB:
+01
+CAD:
+2026/12/13
+4",0.002,11.089,11.091000000000001,L0TO01,erroneo,,omitido,2026-12,correcto,0.625,1,1,1
+carpeta2-1408_0656b9aa_original.png,clahe_lab,"103040""018076"">
+LTO1
+FAB:
+家0/13
+CAD:
+202///113",0.006,10.076,10.082,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta2-1408_0656b9aa_original.png,brillo_contraste,"     y 
+""103040""018076"">
+TOSTOO3O1
+A:
+全02/13
+CAD:
+2026/12/13",0.001,10.132,10.133,TOSTOO3O1,erroneo,2013-02,erroneo,2026-12,correcto,1.0,1,0,2
+carpeta2-1408_0656b9aa_original.png,gamma_0.6,"Inpredents Aoua, C12-15 Aky Bemzate Ocaty
+076`
+LOTE: 30015001
+FAB:
+2023/12/13
+CAD:
+2026/12/13",0.001,10.907,10.908,30015001,correcto,2023-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_0656b9aa_original.png,normalizar_minmax,"     y 
+""103040""018076"">
+TOOSTOOS31O1
+FA
+全0//13
+CAD:
+2026/12/13",0.002,10.395,10.397,TOOSTOOS31O1,erroneo,,omitido,2026-12,correcto,1.0,1,1,1
+carpeta3-1609_0546ea28_original.png,baseline,"09 2026
+C1 2025
+1248825",0.0,8.735,8.735,1248825,correcto,2025-01,correcto,2026-09,correcto,0.0,3,0,0
+carpeta3-1609_0546ea28_original.png,adaptativo,"920700
+520210
+1245925",0.007,8.781,8.788,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta3-1609_0546ea28_original.png,binary_otsu,3,0.003,7.975,7.978,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta3-1609_0546ea28_original.png,mediana_adaptativa,"60
+220240
+520710
+125525",0.006,8.803,8.809000000000001,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta3-1609_0546ea28_original.png,unsharp_masking,010,0.003,7.872,7.875,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta3-1609_0546ea28_original.png,pipeline_super_adaptativo,4,0.027,7.872,7.899,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta3-1609_0546ea28_original.png,unsharp_gris,"9202 60
+01 2025
+124825",0.001,8.568,8.568999999999999,124825,erroneo,2025-01,correcto,,omitido,0.14285714285714285,1,1,1
+carpeta3-1609_0546ea28_original.png,contraste_cuantiles,"09 2026
+C1 2025
+1243825",0.014,8.505,8.519,1243825,erroneo,2025-01,correcto,2026-09,correcto,0.14285714285714285,2,0,1
+carpeta3-1609_0546ea28_original.png,normaliza_fondo,"990220
+01 2025
+1243825",0.055,8.575,8.629999999999999,,omitido,2025-01,correcto,,omitido,1.0,1,2,0
+carpeta3-1609_0546ea28_original.png,unsharp_2x,"010.4
+0:
+9202 60
+01 2025
+124825",0.013,31.857,31.87,124825,erroneo,2025-01,correcto,,omitido,0.14285714285714285,1,1,1
+carpeta3-1609_0546ea28_original.png,reescalado_bilateral,"010.
+01 Z2025
+124825",0.062,30.93,30.992,Z2025,erroneo,,omitido,,omitido,0.5714285714285714,0,2,1
+carpeta3-1609_0546ea28_original.png,polaridad_clahe,"9202 60
+01 225
+124825",0.003,9.061,9.064,124825,erroneo,,omitido,,omitido,0.14285714285714285,0,2,1
+carpeta3-1609_0546ea28_original.png,blackhat_corregido,"9202 60
+C1 2025
+124825",0.001,8.56,8.561,124825,erroneo,,omitido,2025-01,erroneo,0.14285714285714285,0,1,2
+carpeta3-1609_0546ea28_original.png,gris_clahe,"9202 60
+C1 2025
+124825",0.002,8.612,8.614,124825,erroneo,,omitido,2025-01,erroneo,0.14285714285714285,0,1,2
+carpeta3-1609_0546ea28_original.png,clahe_lab,"9202 60
+C1 22025
+124825",0.007,8.592,8.599,124825,erroneo,,omitido,,omitido,0.14285714285714285,0,2,1
+carpeta3-1609_0546ea28_original.png,brillo_contraste,"09 2026
+C1 2025
+1243825",0.001,8.6,8.600999999999999,1243825,erroneo,2025-01,correcto,2026-09,correcto,0.14285714285714285,2,0,1
+carpeta3-1609_0546ea28_original.png,gamma_0.6,"9202 60
+01 2025
+124825",0.001,8.561,8.562,124825,erroneo,2025-01,correcto,,omitido,0.14285714285714285,1,1,1
+carpeta3-1609_0546ea28_original.png,normalizar_minmax,"09 2026
+C1 2025
+1248825",0.001,8.612,8.613,1248825,correcto,2025-01,correcto,2026-09,correcto,0.0,3,0,0
+carpeta3-1609_0670c123_original.png,baseline,"Pro por
+Uu7
+Bctaals
+iguens en
+oteru
+.J.RL
+Auf. San. SENASA. 000813-
+MIDAGRI - SENASA- LIMA -CALLAO
+PRODUCTO PERUANO
+AICCH
+948 868 494
+www.botanicals.pe
+COMUNICATECON NOSOTROS: Celular/WhatsApp:
+CODIGO DE SEGURIDAD
+LOTE:241217
+el embaraza
+FV:17/12/2026
+CI:J201224
+7753574000015
+AL COADYUVANTE A TRATAMIENTOS PARARTE PESO. NO CONSIDERADO MEDICINA.",0.0,17.838,17.838,241217,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta3-1609_0670c123_original.png,adaptativo,"
+Sdtanvis
+4
+LOTE:24T217
+FV:17/12'2026
+CI:J201224
+70753574000015
+ONSIDE
+",0.006,11.25,11.256,24T217,erroneo,,correcto,,omitido,0.16666666666666666,1,1,1
+carpeta3-1609_0670c123_original.png,binary_otsu,"0.0
+LOTE 2.217
+FV.1/7/122026
+C1:J20122.",0.003,9.099,9.102,FV.1/7/122026,erroneo,,correcto,2026-12,correcto,1.0,2,0,1
+carpeta3-1609_0670c123_original.png,mediana_adaptativa,"Rc2s
+
+Sttancals
+
+LOTE:24 T217
+FV:17/12/2026
+C1:J201224
+73374000015
+O CONSIDE
+CODLAOS",0.007,11.67,11.677,T217,erroneo,,correcto,2026-12,correcto,0.5,2,0,1
+carpeta3-1609_0670c123_original.png,unsharp_masking,"
+LOTE:241217
+FV:17/12'2026
+C1:J2012
+7753572000015
+ONSIDER",0.003,10.159,10.162,241217,correcto,,correcto,,omitido,0.0,2,1,0
+carpeta3-1609_0670c123_original.png,pipeline_super_adaptativo,"Zolanicals
+.CA:LAO
+Covrn
+LCOADTL",0.021,8.716,8.737,,omitido,,correcto,,omitido,1.0,1,2,0
+carpeta3-1609_0670c123_original.png,unsharp_gris,"Pro por
+Uu75
+Bccals
+Siguens en
+oteru
+EJ.RL
+Auf. San. SENASA. 000813 -
+MIDAGRI-SENASA-LIMA-CALLAO
+PRODUCTO PERUANO
+HICH
+948 868 494
+www.botanicals.pe
+COMUNICATECON NOSOTROS:Celular/WhatsApp:
+CODIGO DE SEGURIDAD
+LOTE:241217
+el embaraza
+FV:17/12/2026
+CI:J201224
+7753574000015
+AL COADYUVANTE A TRATAMIENTOS PARARTE PESO. NO CONSIDERADO MEDICINA.",0.002,17.382,17.384,241217,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta3-1609_0670c123_original.png,contraste_cuantiles,"Prodi por
+u751
+Bctacals
+Sigs en'
+otru
+E.J.RL
+Auf. San. SENASA. 000813
+MIDAGRI-SENASA-LIMA-CALLAO
+PRODUCTO PERUANO
+ACCH
+948 868 494
+www.botanicals.pe
+COMUNICATECON NOSOTROS:Celular/WhatsApp:
+CODIGO DESEGURIDAD
+LOTE:241217
+elembaraza
+FV:17/12/2026
+CI:J201224
+7753574000015
+AL COADYUVANTE A TRATAMIENTOS PARARE PESO NO CONSIDERADO MEDICINA",0.016,16.91,16.926,241217,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta3-1609_0670c123_original.png,normaliza_fondo,"R.0.C 20517012751
+Siguenos en:@BokanicalsPery
+Botanicals
+EIRL
+Aut. Son. SENASA. 000813 -
+MIDAGRI-SENASA-LIMA-CALLAO
+PRODUCTO PERUANO
+948 868 494
+twww.botanicals.pe
+HOLA
+COMUNICATE CON NOSOTROS: Celular/WhatsApp:
+CODIGO DE SEGURIDAD
+LOTE:2.217
+FV:17/12/2026
+C1:J201224
+71753574000015
+TE PESQ NO CONSIDERADO MEDICINA
+COADYUVANTE A TRATAMIENTOS PARA",0.041,15.115,15.156,J201224,erroneo,,correcto,2026-12,correcto,0.6666666666666666,2,0,1
+carpeta3-1609_0670c123_original.png,unsharp_2x,"Producido por
+R.U.C 20517012751
+Síguenos en:
+BotanicalsPeru
+Botanical's
+Auf. San. SENASA.000813-
+E.I.R.L
+MIDAGRI-SENASA-LIMA-CALLAO
+PRODUCTO PERUANO
+948 868 494
+www.botanicals.pe
+HOLA
+COMUNICATECON NOSOTROS: Celular/WhatsApp:
+CODIGO DE SEGURIDAD
+LOTE:241217
+el embaraza
+FV:17/12/2026
+CI:J201224
+7753574000015
+E.PESO. NO CONSIDERADO MEDICINA.
+AL COADYUVANTE A TRATAMIENTOS PARA",0.015,39.513,39.528,241217,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta3-1609_0670c123_original.png,reescalado_bilateral,"Producido por
+R.U.C 20517012751
+Botanicals
+Siguenos en:
+BotanicalsPeru
+Auf. San. SENASA. 000813 -
+E.I.R.L
+MIDAGRI-SENASA-LIMA-CALLAO
+PRODUCTO PERUANO
+www.botanicals.pe
+HOLA
+948 868 494
+COMUNICATE CON NOSOTROS: Celular/WhatsApp:
+CODIGO DE SEGURIDAD
+LOTE:241217
+el embaraza
+FV:17/12/2026
+C1:J201224
+7753574000015
+TIEPESO.NO CONSIDERADO MEDICINA.
+AL COADYUVANTE A TRATAMIENTOS PARA",0.086,39.488,39.574,241217,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta3-1609_0670c123_original.png,polaridad_clahe,"ro por
+u71
+Sctcas
+Siguens en
+of
+oteru
+E.I.R.L
+Auf. San. SENASA. 000813 -
+MIDAGRI-SENASA-LIMA-CALLAO
+PRODUCTO PERUANO
+948 868 494
+www.botanicals.pe
+HAKCH
+COMUNICATECON NOSOTROS: Celular/WhatsApp:
+CODIGO DE SEGURIDAD
+LOTE:241217
+el embaraza
+FV:17/12/2026
+CI:J201224
+7753574000015
+AL COADYUVANTE A TRATAMIENTOS PARATTE PESO. NO CONSIDERADO MEDICINA",0.003,17.422,17.425,241217,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta3-1609_0670c123_original.png,blackhat_corregido,"Producido por
+R.U.C 20517012751
+Botanicals
+Siguenos en:
+f O
+BotanicalsPeru
+E.I.R.L
+Auf.San.SENASA.000813
+MIDAGRI-SENASA-LIMA-CALLAO
+PRODUCTOPERUANO
+AILCH
+948 868 494
+.pe
+O
+OAD
+0O17
+el ebai zo
+v26
+CI:J201224
+7753574000015
+AL COADYUVANTE A TRATAMIENTOS PARATTIE PESO.NO CONSIDERADO MEDICINA",0.002,17.162,17.163999999999998,J201224,erroneo,,correcto,,omitido,0.6666666666666666,1,1,1
+carpeta3-1609_0670c123_original.png,gris_clahe,"ro por
+u7
+Bctacals
+Siguens en'
+oter
+EJ.RL
+Auf. San. SENASA.000813
+MIDAGRI-SENASA-LIMA-CALLAO
+PRODUCTO PERUANO
+AKCH
+948 868 494
+www.botanicals.pe
+COMUNICATECON NOSOTROS:Celular/WhatsApp:
+CODIGO DE SEGURIDAD
+LOTE:241217
+el embaraza
+FV:17/12/2026
+CI:J201224
+7753574000015
+AL COADYUVANTE A TRATAMIENTOS PARARTE PESO. NO CONSIDERADO MEDICINA",0.002,17.705,17.706999999999997,241217,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta3-1609_0670c123_original.png,clahe_lab,"Producido por
+R.U.C 20517012751
+Botanical's
+Síguenos en:
+BotanicalsPeru
+E.I.R.L
+Auf. San. SENASA. 000813-
+MIDAGRI-SENASA-LIMA-CALLAO
+PRODUCTO PERUANO
+ALCH
+948 868 494
+www.botanicals.pe
+COMUNICATECON NOSOTROS:Celular/WhatsApp:
+CODIGO DE SEGURIDAD
+LOTE:241217
+el embaraza
+FV:17/12/2026
+CI:J201224
+7753574000015
+AL COADYUVANTE A TRATAMIENTOS PARARTE PESO. NO CONSIDERADO MEDICINA",0.008,16.987,16.994999999999997,241217,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta3-1609_0670c123_original.png,brillo_contraste,"Producido por
+R.U.C 20517012751
+Botanical's
+Síguenos en:
+BotanicalsPeru
+E.I.R.L
+Auf. San. SENASA. 000813-
+MIDAGRI-SENASA-LIMA-CALLAO
+PRODUCTO PERUANO
+ACCH
+948 868 494
+www.botanicals.pe
+COMUNICATECON NOSOTROS:Celular/WhatsApp:
+CODIGO DE SEGURIDAD
+LOTE:241217
+el embaraza
+FV:17/12/2026
+CI:J201224
+7753574000015
+AL COADYUVANTE A TRATAMIENTOS PARARTE PESO. NO CONSIDERADO MEDICINA",0.001,17.092,17.093,241217,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta3-1609_0670c123_original.png,gamma_0.6,"Producido por
+R.U.C 20517012751
+Botanical's
+Síguenos en:
+BotanicalsPeru
+E.I.R.L
+Auf. San. SENASA. 000813 -
+MIDAGRI - SENASA - LIMA - CALLAO
+PRODUCTO PERUANO
+AICCH
+948 868 494
+www.botanicals.pe
+COMUNICATE CON NOSOTROS: Celular/WhatsApp:
+CODIGO DE SEGURIDAD
+LOTE:241217
+el embaraza
+FV:17/12/2026
+CI:J201224
+7753574000015
+AL COADYUVANTE A TRATAMIENTOS PARARTE PESO. NO CONSIDERADO MEDICINA.",0.001,17.165,17.166,241217,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta3-1609_0670c123_original.png,normalizar_minmax,"Producido por
+R.U.C 20517012751
+Botanical's
+Síguenos en:
+BotanicalsPeru
+E.I.R.L
+Auf. San. SENASA. 000813-
+MIDAGRI-SENASA-LIMA-CALLAO
+PRODUCTO PERUANO
+AICH
+948 868 494
+www.botanicals.pe
+COMUNICATECON NOSOTROS: Celular/WhatsApp:
+CODIGO DE SEGURIDAD
+LOTE:241217
+el embaraza
+FV:17/12/2026
+CI:J201224
+7753574000015
+AL COADYUVANTE A TRATAMIENTOS PARARTE PESO. NO CONSIDERADO MEDICINA.",0.002,19.463,19.465,241217,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta3-1609_0914ed75_original.png,baseline,"eraf
+eina
+5  mL
+LOTE
+c02
+FAB
+12/0
+.VEN
+Mg 3798(hH)
+.48
+719791919990101
+Fab por:",0.0,12.641,12.641,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta3-1609_0914ed75_original.png,adaptativo,"Serotocaf
+010.
+Cefalexina
+250 mg / 5 mL
+LOTE
+1172020
+BCY0125002
+FFAB
+FVENC
+
+R.S. N°: EE-07484
+7175129910019041>
+Fabncado por:",0.008,11.691,11.699,1172020,erroneo,,omitido,,omitido,0.8,0,2,1
+carpeta3-1609_0914ed75_original.png,binary_otsu,"250 mg /5 mL
+RSNTE0/41
+4
+Fbo a0o por",0.003,9.119,9.122,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta3-1609_0914ed75_original.png,mediana_adaptativa,"Serotoca
+60
+Cefalexina
+250 mg / 5 mL
+LOTE
+2
+ECY0125002
+FFAB
+FNENC
+1N 
+R.S. N°: EE-07484
+1717512990019041
+fabricado por:",0.006,11.262,11.268,ECY0125002,erroneo,,omitido,,omitido,0.1,0,2,1
+carpeta3-1609_0914ed75_original.png,unsharp_masking,"Serotocaf
+Cefalexina
+250 mg / 5 mL
+R.S. N°: EE-07484
+17512990019041
+Fabricado por:",0.003,10.162,10.165000000000001,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta3-1609_0914ed75_original.png,pipeline_super_adaptativo,"
+(X)",0.028,8.777,8.805,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta3-1609_0914ed75_original.png,unsharp_gris,"eraf
+ein
+50 5 mL
+LOTE
+Cc02
+FAB
+12/20
+VENO
+Mg 379(H)
+.8
+7799599919101
+Fab por:",0.001,11.815,11.815999999999999,Cc02,erroneo,2020-12,erroneo,,omitido,0.7,0,1,2
+carpeta3-1609_0914ed75_original.png,contraste_cuantiles,"Serotocaf
+Cefalexina
+250 mg/5 mL
+LOTE:
+BCY0125002
+F FAB
+12/2025
+F.VENC
+Mfg. Lic.N°: 379-8(H)
+R.S. N°: EE-07484
+7751299001904>
+Fabricado por:",0.015,12.06,12.075000000000001,BCY0125002,correcto,2025-12,erroneo,,omitido,0.0,1,1,1
+carpeta3-1609_0914ed75_original.png,normaliza_fondo,"Serotocaf
+Cefalexina
+250 mg / 5 mL
+LOTE:
+BCY0125002
+12/2022
+F FAB.
+F.VENC
+Mfg Lic N° 379-B(H)
+R.S. N°: EE-07484
+71751299001904>
+Fabricado por:",0.042,11.794,11.836,BCY0125002,correcto,,omitido,2022-12,erroneo,0.0,1,1,1
+carpeta3-1609_0914ed75_original.png,unsharp_2x,"Serotocaf
+Cefalexina
+010-
+250 mg/5 mL
+LOTE:
+BCY0125002
+F FAB.
+F.VENC
+Mfg. Lic N° 379-B(H)
+R.S. N°: EE-07484
+751299001904
+Fabricado por:",0.012,33.888,33.9,BCY0125002,correcto,,omitido,,omitido,0.0,1,2,0
+carpeta3-1609_0914ed75_original.png,reescalado_bilateral,"Serotocaf
+Cefalexina
+010.
+250 mg/5 mL
+LOTE
+BCY0125002
+F FAB.
+F.VENC:
+Mfg. Lic: N° 379-B(H)
+R.S. N°: EE-07484
+751299001904
+Fabricado por:",0.073,34.468,34.541000000000004,BCY0125002,correcto,,omitido,,omitido,0.0,1,2,0
+carpeta3-1609_0914ed75_original.png,polaridad_clahe,"Seraf
+ein
+5 5 mL
+LOTE
+Cc002
+FA
+12<2025
+F.VENC
+Mfg. Lic: N°: 379-B(H)
+R.S. N°: EE-07484
+7751299001904>
+Fabricado por:",0.004,11.998,12.001999999999999,Cc002,erroneo,,omitido,,omitido,0.6,0,2,1
+carpeta3-1609_0914ed75_original.png,blackhat_corregido,"Serotocaf
+Cefalexina
+250 mg / 5 mL
+LOTE:
+BCY0125002
+F FAB.
+1222/00
+.VENO
+Mg 79H)
+.8
+77999512901
+Fab por:",0.002,11.733,11.735000000000001,BCY0125002,correcto,,omitido,,omitido,0.0,1,2,0
+carpeta3-1609_0914ed75_original.png,gris_clahe,"eraf
+eina
+5  mL
+LOTE
+Cc02
+FAB
+922/20
+VEN
+Mg 79-(H)
+.8
+77959199101
+Fab por",0.002,11.732,11.734,Cc02,erroneo,,omitido,,omitido,0.7,0,2,1
+carpeta3-1609_0914ed75_original.png,clahe_lab,"Serotocaf
+Cefalexina
+250 mg/5 mL
+LOTE:
+BCY0125002
+F FAB.
+932/20
+VEN
+Mg  39-(H)
+.48
+7999911291901
+Fab por",0.007,11.88,11.887,BCY0125002,correcto,,omitido,,omitido,0.0,1,2,0
+carpeta3-1609_0914ed75_original.png,brillo_contraste,"Serotocaf
+Cefalexina
+250 mg/5 mL
+LOTE:
+BCY0125002
+12<2026
+F FAB
+F.VENC
+Mfg. Lic. N° 379-B(H)
+R.S. N°: EE-07484
+7751299001904>
+Fabricado por:",0.001,11.768,11.769,BCY0125002,correcto,,omitido,,omitido,0.0,1,2,0
+carpeta3-1609_0914ed75_original.png,gamma_0.6,"Serotocaf
+Cefalexina
+250 mg/5 mL
+LOTE
+BCY0125002
+12/2026
+F FAB
+F.VENC
+Mfg Lic N° 379-B(H)
+R.S. N°: EE-07484
+7751299001904>
+Fabricado por:",0.001,11.951,11.952,BCY0125002,correcto,,omitido,2026-12,correcto,0.0,2,1,0
+carpeta3-1609_0914ed75_original.png,normalizar_minmax,"eraf
+eina
+5 mL
+LOTE
+Cc02
+1220
+F FAB
+F.VENC
+Mfg. Lic. N° 379-B(H)
+R.S. N°: EE-07484
+7751299001904>
+Fabricado por:",0.001,11.747,11.748,Cc02,erroneo,,omitido,,omitido,0.7,0,2,1
+carpeta3-1609_09a9ac3d_original.png,baseline,"Cefalexina
+250 mg / 5 mL
+LOTE
+BCY0125002
+F.FAB
+01/2025
+12/2026
+F.VENC
+Mfg. Lic. N°: 379-B(H)
+R.S. N°: EE-07484
+990019041>
+res Limited
+SAC
+uol de Amal N° 202
+Callac, Perú
+BPM
+BPA
+GMP
+GSP",0.0,13.347,13.347,BCY0125002,correcto,2025-01,correcto,2026-12,correcto,0.0,3,0,0
+carpeta3-1609_09a9ac3d_original.png,adaptativo,"Cefalexina
+250 mg / 5 mL
+LOTE
+ωo-
+N
+100
+Nてっ
+BYS 3
+2.3A3
+22124
+fol0
+8
+R.S. N°: EE-07484
+90019041
+olra
+600  Ara N 202
+- C- Peru.
+BPM
+BPA
+C
+CSP",0.007,13.871,13.878,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta3-1609_09a9ac3d_original.png,binary_otsu,"250 mg / 5 mL
+RS NFE.0744
+RPN",0.003,8.6,8.603,,omitido,,omitido,,omitido,1.0,0,3,0
+carpeta3-1609_09a9ac3d_original.png,mediana_adaptativa,"Cefalexina
+250 mg / 5 mL
+LOTE
+CCY012002
+132023
+FFA3
+F VE:C
+60
+R.S. N°: EE-07484
+940019041>
+N22
+C. PeN
+BPM
+BPA",0.007,12.504,12.511,CCY012002,erroneo,2002-01,erroneo,,omitido,0.2,0,1,2
+carpeta3-1609_09a9ac3d_original.png,unsharp_masking,"Cefalexina
+250 mg / 5 mL
+LOTE
+5010135302
+F FAR
+FELC
+R.S. N°: EE-07484
+10019041>
+-123
+N202
+-C Peru
+BPM:
+BPA",0.003,11.502,11.505,5010135302,erroneo,,omitido,,omitido,0.5,0,2,1
+carpeta3-1609_09a9ac3d_original.png,pipeline_super_adaptativo,1.10.11,0.027,7.88,7.907,,omitido,2011-10,erroneo,,omitido,1.0,0,2,1
+carpeta3-1609_09a9ac3d_original.png,unsharp_gris,"Cefalexina
+250 mg / 5 mL
+LOTE
+BCY0125002
+120
+F.FAB
+F.VENC
+Mfg. Lic. N°. 379-B(H)
+R.S. N°: EE-07484
+990019041>
+res Limited
+uol de Amal N° 202
+Callao, Perú
+BPM
+BPA
+GMP
+GSP",0.002,12.389,12.391,BCY0125002,correcto,,omitido,,omitido,0.0,1,2,0
+carpeta3-1609_09a9ac3d_original.png,contraste_cuantiles,"Cefalexina
+250 mg / 5 mL
+LOTE
+BCY0125002
+12/202
+F.FAB
+F.VENC
+Mfg. Lic. N°: 379-B(H)
+R.S. N°: EE-07484
+990019041>
+jmited
+SAC
+nuol de Amal N° 202
+Callao. Perú.
+BPM
+BPA
+GMP
+GSP",0.018,12.768,12.786000000000001,BCY0125002,correcto,,omitido,,omitido,0.0,1,2,0
+carpeta3-1609_09a9ac3d_original.png,normaliza_fondo,"Cefalexina
+250 mg/5 mL
+LOTE
+BCY0125002
+12202
+F. FAB.
+F.VENC
+Mffg Lic N°, 379-B(H)
+R.S. N°: EE-07484
+9001904>
+mes Limited
+BAC
+剂
+ de Amal N° 202
+Callac. Pens
+BPM
+BPA
+GMP
+GSP",0.046,13.663,13.709,BCY0125002,correcto,,omitido,,omitido,0.0,1,2,0
+carpeta3-1609_09a9ac3d_original.png,unsharp_2x,"Cefalexina
+250 mg/ 5 mL
+LOTE
+BCY0125002
+01/2025
+F.FAB
+12/2026
+F.VENC
+Mfg. Lic. N°: 379-B(H)
+R.S. N°: EE-07484
+99001904>
+res Limited
+ABAC
+ol de Amal N° 202
+Callao, Perú
+BPA
+BPM
+GMP
+GSP",0.014,35.794,35.808,BCY0125002,correcto,2025-01,correcto,2026-12,correcto,0.0,3,0,0
+carpeta3-1609_09a9ac3d_original.png,reescalado_bilateral,"Cefalexina
+250 mg/ 5 mL
+LOTE
+BCY0125002
+01/2025
+F. FAB
+12/2026
+F.VENC
+Mfg. Lic. N°: 179-B(H)
+010.
+R.S. N°: EE-07484
+990019041>
+nes Limited
+ASAC
+uol de Amal N° 202
+Callao, Perú
+BPA
+BPM
+GMP
+GSP",0.081,35.775,35.856,BCY0125002,correcto,2025-01,correcto,2026-12,correcto,0.0,3,0,0
+carpeta3-1609_09a9ac3d_original.png,polaridad_clahe,"Cefalexina
+250 mg/ 5 mL
+LOTE
+BCY0125002
+12202
+F.FAB
+F.VENC
+Mfg. Lic. N°: 179-B(H)
+R.S. N°: EE-07484
+990019041>
+res Limited
+SAC
+nuol de Amal N° 202
+Callao, Penú
+BPM
+BPA
+GMP
+GSP",0.003,12.915,12.918,BCY0125002,correcto,,omitido,,omitido,0.0,1,2,0
+carpeta3-1609_09a9ac3d_original.png,blackhat_corregido,"Cefalexina
+250 mg/5 mL
+LOTE
+BCY0125002
+F.FAB
+F.VENC
+Mfg. Lic. N°: 379-B.H)
+R.S. N°: EE-07484
+9001904>
+ries Limited
+huol de Amal N° 202
+Callao. Perú
+BPM
+BPA
+GMP
+GSP",0.002,12.3,12.302000000000001,BCY0125002,correcto,,omitido,,omitido,0.0,1,2,0
+carpeta3-1609_09a9ac3d_original.png,gris_clahe,"Cefalexina
+250 mg/5 mL
+LOTE
+BCY0125002
+11/202
+F.FAB
+F.VENC
+Mfg. Lic. N°: 179-B(H)
+R.S. N°: EE-07484
+290019041>
+nes Limited
+AC
+huol de Amal N° 202
+Callao. Perú
+BPM
+BPA
+GMP
+GSP",0.002,13.408,13.41,BCY0125002,correcto,,omitido,,omitido,0.0,1,2,0
+carpeta3-1609_09a9ac3d_original.png,clahe_lab,"Cefalexina
+250 mg /5 mL
+LOTE
+BCY0125002
+11202
+F.FAB
+F.VENC
+Mfg. Lic. N°: 179-B(H)
+R.S. N°: EE-07484
+990019041>
+ries Limited
+SAC
+nuol de Amal N° 202
+Callao. Penú
+BPM
+BPA
+GMP
+GSP",0.007,13.085,13.092,BCY0125002,correcto,,omitido,,omitido,0.0,1,2,0
+carpeta3-1609_09a9ac3d_original.png,brillo_contraste,"Cefalexina
+250 mg / 5 mL
+LOTE
+BCY0125002
+F.FAB
+01/2025
+12/2026
+F.VENC
+Mfg. Lic. N°: 179-B(H)
+R.S. N°: EE-07484
+990019041>
+nes Limited
+SAC
+uol de Amal N° 202
+Callao, Perú
+BPM
+BPA
+GMP
+GSP",0.001,13.259,13.26,BCY0125002,correcto,2025-01,correcto,2026-12,correcto,0.0,3,0,0
+carpeta3-1609_09a9ac3d_original.png,gamma_0.6,"Cefalexina
+250 mg / 5 mL
+LOTE
+BCY0125002
+F.FAB
+01/2025
+12/2026
+F.VENC
+Mfg. Lic. N°: 379-B(H)
+R.S. N°: EE-07484
+990019041>
+res Limited
+SAC
+uol de Amal N° 202
+Callao, Perú
+BPM
+BPA
+GMP
+GSP",0.001,13.373,13.373999999999999,BCY0125002,correcto,2025-01,correcto,2026-12,correcto,0.0,3,0,0
+carpeta3-1609_09a9ac3d_original.png,normalizar_minmax,"Cefalexina
+250 mg / 5 mL
+LOTE
+BCY0125002
+F.FAB
+01/2025
+12/2026
+F.VENC
+Mfg. Lic. N°: 379-B(H)
+R.S. N°: EE-07484
+990019041>
+res Limited
+SAC
+uol de Amal N° 202
+Callac, Perú
+BPM
+BPA
+GMP
+GSP",0.001,13.093,13.094,BCY0125002,correcto,2025-01,correcto,2026-12,correcto,0.0,3,0,0
+carpeta1-0508_036f0258_original.png,CASCADA,"010.9
+LOTE NG
+MANUF
+24H16G3
+EXF
+16/08/2024
+15/08/2026",0.0,35.342,35.342,24H16G3,correcto,2024-08,correcto,2026-08,correcto,0.0,3,0,0
+carpeta1-0508_0421afbc_original.png,CASCADA,"932155
+Lot
+Mandl
+08/24
+Exp
+08/26",0.0,10.819,10.819,932155,correcto,2024-08,correcto,2026-08,correcto,0.0,3,0,0
+carpeta1-0508_0724983f_original.png,CASCADA,"80799
+Lote No.:0AF0434A
+F.Manuf.:09/2024
+F.Exp.1 08/2026
+8901127037957
+E99PWN8R6SZ",0.0,10.713,10.713,0AF0434A,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta1-0508_09d0cb17_original.png,CASCADA,"2024/11/04
+10202411042026/11/03",0.0,8.624,214.70999999999998,,omitido,2024-11,correcto,2026-11,correcto,1.0,2,1,0
+carpeta1-0508_0d5e6be4_original.png,CASCADA,"m
+GTIN:18901127028504
+Sr. No.: B8NTAWB62BU
+Lote No.: DNF08808
+F.Manuf.:09/2024
+f.Exp.: 08/2026
+Repuba
+cina 150",0.0,11.284,11.284,DNF08808,erroneo,2024-09,correcto,2026-08,correcto,0.125,2,0,1
+carpeta2-1408_011935a0_original.png,CASCADA,"L:2120064
+V:12-2026",0.0,8.392,8.392,2120064,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_01200be4_original.png,CASCADA,"Lote:
+Elab:
+Cad:
+4031037
+20/DIC/24
+20/DIC/26U44",0.0,9.999,9.999,4031037,correcto,2024-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_0303fac1_original.png,CASCADA,"54Y20W
+12-2026",0.0,9.096,9.096,54Y20W,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_03d36f66_original.png,CASCADA,"
+EXP
+12 2026
+LOT
+TDTX3
+MFD
+01 2024",0.0,13.836,13.836,TDTX3,correcto,2024-01,correcto,2026-12,correcto,0.0,3,0,0
+carpeta2-1408_0656b9aa_original.png,CASCADA,"Inpredents Aoua, C12-15 Aky Benzate Öctity
+1076
+LOTE: 30015001
+FAB:
+2023/12/13
+CAD:
+2026/12/13",0.0,10.644,10.644,30015001,correcto,2023-12,correcto,2026-12,correcto,0.0,3,0,0
+carpeta3-1609_0546ea28_original.png,CASCADA,"09 2026
+C1 2025
+1248825",0.0,8.735,8.735,1248825,correcto,2025-01,correcto,2026-09,correcto,0.0,3,0,0
+carpeta3-1609_0670c123_original.png,CASCADA,"Pro por
+Uu7
+Bctaals
+iguens en
+oteru
+.J.RL
+Auf. San. SENASA. 000813-
+MIDAGRI - SENASA- LIMA -CALLAO
+PRODUCTO PERUANO
+AICCH
+948 868 494
+www.botanicals.pe
+COMUNICATECON NOSOTROS: Celular/WhatsApp:
+CODIGO DE SEGURIDAD
+LOTE:241217
+el embaraza
+FV:17/12/2026
+CI:J201224
+7753574000015
+AL COADYUVANTE A TRATAMIENTOS PARARTE PESO. NO CONSIDERADO MEDICINA.",0.0,17.838,17.838,241217,correcto,,correcto,2026-12,correcto,0.0,3,0,0
+carpeta3-1609_0914ed75_original.png,CASCADA,"Serotocaf
+Cefalexina
+250 mg/5 mL
+LOTE
+BCY0125002
+12/2026
+F FAB
+F.VENC
+Mfg Lic N° 379-B(H)
+R.S. N°: EE-07484
+7751299001904>
+Fabricado por:",0.001,11.951,24.593,BCY0125002,correcto,,omitido,2026-12,correcto,0.0,2,1,0
+carpeta3-1609_09a9ac3d_original.png,CASCADA,"Cefalexina
+250 mg / 5 mL
+LOTE
+BCY0125002
+F.FAB
+01/2025
+12/2026
+F.VENC
+Mfg. Lic. N°: 379-B(H)
+R.S. N°: EE-07484
+990019041>
+res Limited
+SAC
+uol de Amal N° 202
+Callac, Perú
+BPM
+BPA
+GMP
+GSP",0.0,13.347,13.347,BCY0125002,correcto,2025-01,correcto,2026-12,correcto,0.0,3,0,0
