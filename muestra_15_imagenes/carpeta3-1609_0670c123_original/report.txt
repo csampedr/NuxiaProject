@@ -1,0 +1,35 @@
+Scan Report: 0670c123
+Fecha/Hora: 2026-09-16 12:12:30
+
+═══ RESULTADO ═══
+  Lote:              C20517012751
+  Fecha Vencimiento: 17/12/2026
+  Estado:            COMPLETE
+  Match con Excel:   No
+
+═══ TEXTO OCR DETECTADO ═══
+  (✓ = confianza ≥ 0.8, ✗ = descartado)
+  [✓] (0.9873) Producidopor
+  [✓] (0.9686) R.U.C20517012751
+  [✓] (0.9443) Siguenos en:
+  [✗] (0.7177) f
+  [✓] (0.9606) BotanicalsPeru
+  [✓] (0.9508) Botanical's
+  [✓] (0.9830) E.I.R.L
+  [✓] (0.9554) Aut.San.SENASA.000813-
+  [✓] (0.9763) MIDAGRI-SENASA-LIMA-CALLAO
+  [✓] (0.9753) PRODUCTOPERUANO
+  [✓] (0.8471) HOIA
+  [✓] (0.9930) 948868494
+  [✓] (0.9943) www.botanicals.pe
+  [✓] (0.8866) COMUNICATE CON NOSOTROS:Celular/WhatsApp
+  [✓] (0.9434) CODIGO DE SEGURIDAD
+  [✓] (0.8554) LOTE241217
+  [✓] (0.9492) elembarazo
+  [✓] (0.9664) FV:17/12/2026
+  [✓] (0.8409) C1:J20122.4
+  [✓] (0.9762) 7753574000015
+
+═══ CONFIGURACIÓN ═══
+  Umbral confianza: 0.8
+  Imagen: 1280x720 px

@@ -1,0 +1,21 @@
+Scan Report: 0421afbc
+Fecha/Hora: 2026-08-05 11:08:06
+
+═══ RESULTADO ═══
+  Lote:              MAND
+  Fecha Vencimiento: 93/2155
+  Estado:            COMPLETE
+  Match con Excel:   No
+
+═══ TEXTO OCR DETECTADO ═══
+  (✓ = confianza ≥ 0.90, ✗ = descartado)
+  [✓] (0.9927) 932155
+  [✗] (0.6233) Lat
+  [✓] (0.9916) 08/24
+  [✓] (0.9739) Mand
+  [✓] (0.9815) 08/26
+  [✗] (0.8633) Ep
+
+═══ CONFIGURACIÓN ═══
+  Umbral confianza: 0.90
+  Imagen: 1280x720 px

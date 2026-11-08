@@ -1,0 +1,21 @@
+Scan Report: 01200be4
+Fecha/Hora: 2026-08-13 13:02:50
+
+═══ RESULTADO ═══
+  Lote:              200IC24
+  Fecha Vencimiento: (vacío)
+  Estado:            PARTIAL
+  Match con Excel:   No
+
+═══ TEXTO OCR DETECTADO ═══
+  (✓ = confianza ≥ 0.8, ✗ = descartado)
+  [✓] (0.9586) Lote:
+  [✓] (0.9374) Elab:
+  [✓] (0.8232) Cad:a
+  [✓] (0.9975) 4031037
+  [✓] (0.8812) 200IC24
+  [✓] (0.9067) 20/0IC26
+
+═══ CONFIGURACIÓN ═══
+  Umbral confianza: 0.8
+  Imagen: 1280x720 px

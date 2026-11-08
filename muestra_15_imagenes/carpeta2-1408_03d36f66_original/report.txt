@@ -1,0 +1,21 @@
+Scan Report: 03d36f66
+Fecha/Hora: 2026-08-13 12:44:33
+
+═══ RESULTADO ═══
+  Lote:              TDTX3
+  Fecha Vencimiento: 12/2026
+  Estado:            COMPLETE
+  Match con Excel:   Sí
+
+═══ TEXTO OCR DETECTADO ═══
+  (✓ = confianza ≥ 0.8, ✗ = descartado)
+  [✓] (0.8647) EXP
+  [✓] (0.9961) 122026
+  [✓] (0.9982) LOT
+  [✓] (0.9563) TDTX3
+  [✓] (0.9438) MFD
+  [✓] (0.9910) 012024
+
+═══ CONFIGURACIÓN ═══
+  Umbral confianza: 0.8
+  Imagen: 1280x720 px

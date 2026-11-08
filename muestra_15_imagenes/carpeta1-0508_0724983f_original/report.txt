@@ -1,0 +1,20 @@
+Scan Report: 0724983f
+Fecha/Hora: 2026-08-05 10:59:59
+
+═══ RESULTADO ═══
+  Lote:              (vacío)
+  Fecha Vencimiento: (vacío)
+  Estado:            NOT_FOUND
+  Match con Excel:   No
+
+═══ TEXTO OCR DETECTADO ═══
+  (✓ = confianza ≥ 0.90, ✗ = descartado)
+  [✓] (0.9945) 0799
+  [✗] (0.8616) Lote N.AF0434A
+  [✗] (0.8328) F.Manuf.:09/2024
+  [✗] (0.8561) F.xp.1C8/2026
+  [✓] (0.9906) 8901127037957
+
+═══ CONFIGURACIÓN ═══
+  Umbral confianza: 0.90
+  Imagen: 1280x720 px

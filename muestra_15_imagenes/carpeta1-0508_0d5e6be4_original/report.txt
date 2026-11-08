@@ -1,0 +1,20 @@
+Scan Report: 0d5e6be4
+Fecha/Hora: 2026-08-05 10:59:33
+
+═══ RESULTADO ═══
+  Lote:              (vacío)
+  Fecha Vencimiento: 08/2026
+  Estado:            PARTIAL
+  Match con Excel:   No
+
+═══ TEXTO OCR DETECTADO ═══
+  (✓ = confianza ≥ 0.90, ✗ = descartado)
+  [✗] (0.8611) 6IN18901127028504
+  [✗] (0.7572) Lote No.:ONF088CB
+  [✗] (0.8410) F.Manuf09/2024
+  [✓] (0.9432) f.Exp.08/2026
+  [✗] (0.8531) cna150
+
+═══ CONFIGURACIÓN ═══
+  Umbral confianza: 0.90
+  Imagen: 1280x720 px

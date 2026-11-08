@@ -1,0 +1,17 @@
+Scan Report: 011935a0
+Fecha/Hora: 2026-08-13 12:59:31
+
+═══ RESULTADO ═══
+  Lote:              L2120064
+  Fecha Vencimiento: 12/2026
+  Estado:            COMPLETE
+  Match con Excel:   No
+
+═══ TEXTO OCR DETECTADO ═══
+  (✓ = confianza ≥ 0.8, ✗ = descartado)
+  [✓] (0.9942) L2120064
+  [✓] (0.9329) V12-2026
+
+═══ CONFIGURACIÓN ═══
+  Umbral confianza: 0.8
+  Imagen: 1280x720 px

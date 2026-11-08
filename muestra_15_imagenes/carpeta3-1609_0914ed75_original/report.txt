@@ -1,0 +1,27 @@
+Scan Report: 0914ed75
+Fecha/Hora: 2026-09-16 11:55:42
+
+═══ RESULTADO ═══
+  Lote:              (vacío)
+  Fecha Vencimiento: (vacío)
+  Estado:            NOT_FOUND
+  Match con Excel:   No
+
+═══ TEXTO OCR DETECTADO ═══
+  (✓ = confianza ≥ 0.8, ✗ = descartado)
+  [✓] (0.9975) Serotocaf
+  [✓] (0.9973) Cefalexina
+  [✓] (0.9934) 250mg/5mL
+  [✓] (0.9964) LOTE
+  [✓] (0.9574) BCY0125002
+  [✗] (0.5537) 12-2858
+  [✓] (0.9030) F.FAB.
+  [✓] (0.9710) F.VENC
+  [✗] (0.7922) MLN379-8H
+  [✓] (0.9834) R.S.NEE-07484
+  [✓] (0.9531) 77512990019041
+  [✓] (0.9678) Fabricado por
+
+═══ CONFIGURACIÓN ═══
+  Umbral confianza: 0.8
+  Imagen: 1280x720 px

@@ -1,0 +1,22 @@
+Scan Report: 0656b9aa
+Fecha/Hora: 2026-08-13 12:49:54
+
+═══ RESULTADO ═══
+  Lote:              103040018076
+  Fecha Vencimiento: (vacío)
+  Estado:            PARTIAL
+  Match con Excel:   No
+
+═══ TEXTO OCR DETECTADO ═══
+  (✓ = confianza ≥ 0.8, ✗ = descartado)
+  [✓] (0.9922) 103040018076
+  [✓] (0.9967) LOTE
+  [✓] (0.9833) 30015001
+  [✓] (0.9382) FAB:
+  [✓] (0.8206) 20231213
+  [✓] (0.9538) CAD:
+  [✗] (0.7814) 20261213
+
+═══ CONFIGURACIÓN ═══
+  Umbral confianza: 0.8
+  Imagen: 1280x720 px

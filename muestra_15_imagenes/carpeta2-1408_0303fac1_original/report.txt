@@ -1,0 +1,17 @@
+Scan Report: 0303fac1
+Fecha/Hora: 2026-08-13 12:56:15
+
+═══ RESULTADO ═══
+  Lote:              (vacío)
+  Fecha Vencimiento: 12/2026
+  Estado:            PARTIAL
+  Match con Excel:   No
+
+═══ TEXTO OCR DETECTADO ═══
+  (✓ = confianza ≥ 0.8, ✗ = descartado)
+  [✓] (0.8561) MOZADS
+  [✓] (0.9807) 12-2026
+
+═══ CONFIGURACIÓN ═══
+  Umbral confianza: 0.8
+  Imagen: 1280x720 px

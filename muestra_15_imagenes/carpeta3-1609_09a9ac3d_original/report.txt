@@ -1,0 +1,30 @@
+Scan Report: 09a9ac3d
+Fecha/Hora: 2026-09-16 11:56:01
+
+═══ RESULTADO ═══
+  Lote:              250
+  Fecha Vencimiento: (vacío)
+  Estado:            PARTIAL
+  Match con Excel:   Sí
+
+═══ TEXTO OCR DETECTADO ═══
+  (✓ = confianza ≥ 0.8, ✗ = descartado)
+  [✓] (0.9973) Cefalexina
+  [✓] (0.9555) 250 mg/5mL
+  [✓] (0.9966) LOTE
+  [✓] (0.9480) F.FAB
+  [✓] (0.9619) F.VENC
+  [✓] (0.9752) R.S.NEE-07484
+  [✓] (0.9845) 9001904
+  [✓] (0.8001) nes Limited
+  [✓] (0.8894) SAC
+  [✗] (0.7864) de Aa N202
+  [✗] (0.7327) Calac.Per
+  [✓] (0.9951) BPM
+  [✓] (0.9969) BPA
+  [✓] (0.9656) GMP
+  [✓] (0.9788) GSP
+
+═══ CONFIGURACIÓN ═══
+  Umbral confianza: 0.8
+  Imagen: 1280x720 px

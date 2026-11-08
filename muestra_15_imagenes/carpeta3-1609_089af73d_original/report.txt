@@ -1,0 +1,23 @@
+Scan Report: 089af73d
+Fecha/Hora: 2026-09-16 10:55:24
+
+═══ RESULTADO ═══
+  Lote:              (vacío)
+  Fecha Vencimiento: (vacío)
+  Estado:            NOT_FOUND
+  Match con Excel:   No
+
+═══ TEXTO OCR DETECTADO ═══
+  (✓ = confianza ≥ 0.8, ✗ = descartado)
+  [✗] (0.7856) Fabricado porHeriSA
+  [✓] (0.8524) Faborato
+  [✗] (0.7877) Ay.Los Frutafes 220
+  [✓] (0.8618) ales Faszracbuticos
+  [✗] (0.7897) Ate Lima-Per
+  [✗] (0.7460) R.5EN-03930
+  [✓] (0.8993) RUC:20100060150
+  [✓] (0.9502) PROFESIONALESTRABAJANDO POR LASALUD
+
+═══ CONFIGURACIÓN ═══
+  Umbral confianza: 0.8
+  Imagen: 1280x720 px

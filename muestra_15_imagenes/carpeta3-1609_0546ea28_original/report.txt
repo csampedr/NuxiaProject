@@ -1,0 +1,18 @@
+Scan Report: 0546ea28
+Fecha/Hora: 2026-09-16 11:37:51
+
+═══ RESULTADO ═══
+  Lote:              (vacío)
+  Fecha Vencimiento: (vacío)
+  Estado:            NOT_FOUND
+  Match con Excel:   No
+
+═══ TEXTO OCR DETECTADO ═══
+  (✓ = confianza ≥ 0.8, ✗ = descartado)
+  [✓] (0.8809) 20260
+  [✗] (0.7327) 520210
+  [✓] (0.9327) 1248825
+
+═══ CONFIGURACIÓN ═══
+  Umbral confianza: 0.8
+  Imagen: 1280x720 px

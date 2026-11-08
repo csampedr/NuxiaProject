@@ -1,0 +1,21 @@
+Scan Report: 036f0258
+Fecha/Hora: 2026-08-05 11:11:25
+
+═══ RESULTADO ═══
+  Lote:              LOTEN
+  Fecha Vencimiento: 15/08/2026
+  Estado:            COMPLETE
+  Match con Excel:   No
+
+═══ TEXTO OCR DETECTADO ═══
+  (✓ = confianza ≥ 0.90, ✗ = descartado)
+  [✓] (0.9775) LOTEN
+  [✗] (0.7568) MAUF.
+  [✗] (0.8950) 24H1663
+  [✗] (0.8438) EXF
+  [✓] (0.9949) 16/08/2024
+  [✓] (0.9944) 15/08/2026
+
+═══ CONFIGURACIÓN ═══
+  Umbral confianza: 0.90
+  Imagen: 1280x720 px
